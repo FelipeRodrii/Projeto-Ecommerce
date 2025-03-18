@@ -1,0 +1,1000 @@
+,Nome,Sobrenome,Sexo,CPF,Idade,ID_Produto,Produto,Quantidade,Valor_Unitario,Total_Compra,Imposto_Produto,Cidade,Estado,Pais,Data,Forma_Pagamento
+0,José,Sales,Masculino,290.345.876-65,30,09,Cadeira Gamer,2,900.0,1800.0,180.0,Garcia de Goiás,SE,Brasil,2024-11-01,Especie
+1,Isabel,Martins,Feminino,725.403.618-62,21,08,HeadSet,3,250.0,750.0,75.0,Rocha de Cunha,PI,Brasil,2024-09-09,Credito
+2,Francisco,Fogaça,Masculino,192.734.680-04,26,09,Cadeira Gamer,1,900.0,900.0,90.0,Martins das Flores,RN,Brasil,2024-11-11,Debito
+3,Rafael,da Rocha,Masculino,536.084.729-83,19,09,Cadeira Gamer,2,900.0,1800.0,180.0,Melo,SC,Brasil,2024-10-04,Credito
+4,Anthony Gabriel,Nunes,Masculino,670.259.814-94,47,04,Impressora,2,800.0,1600.0,160.0,Castro de Aragão,SE,Brasil,2024-08-05,PIX
+5,Davi,Melo,Masculino,157.620.983-03,36,04,Impressora,2,800.0,1600.0,160.0,Machado,PB,Brasil,2024-12-21,Credito
+6,Bernardo,Ferreira,Masculino,038.516.427-08,46,04,Impressora,1,800.0,800.0,80.0,Barbosa,SC,Brasil,2024-06-18,PIX
+7,Pietro,Gonçalves,Masculino,083.715.429-41,36,09,Cadeira Gamer,3,900.0,2700.0,270.0,Melo,SE,Brasil,2024-06-26,PIX
+8,Luiz Henrique,Santos,Masculino,375.641.209-16,43,06,Teclado,3,200.0,600.0,60.0,Alves,MS,Brasil,2024-05-09,Credito
+9,Yan,Garcia,Masculino,950.417.286-58,37,06,Teclado,1,200.0,200.0,20.0,Machado,AL,Brasil,2024-01-25,Credito
+10,Cecilia,Pinto,Feminino,756.308.219-03,36,07,Mouse,3,80.0,240.0,24.0,da Mota,AM,Brasil,2024-02-09,Debito
+11,Maria Liz,Dias,Feminino,459.027.318-79,47,06,Teclado,3,200.0,600.0,60.0,Araújo da Praia,RJ,Brasil,2024-06-01,Especie
+12,Pietra,Nunes,Feminino,391.647.052-34,45,01,Notebook,3,3500.0,10500.0,1050.0,Duarte de Moura,PB,Brasil,2024-04-13,Credito
+13,Davi,Lima,Masculino,461.358.027-71,48,02,Smartphone,3,2000.0,6000.0,600.0,Moreira dos Dourados,SP,Brasil,2024-08-30,PIX
+14,Maria Luísa,Sousa,Feminino,708.914.563-84,23,01,Notebook,2,3500.0,7000.0,700.0,Machado,MA,Brasil,2024-06-22,Especie
+15,Caleb,Freitas,Masculino,501.826.349-06,40,01,Notebook,1,3500.0,3500.0,350.0,Sales,MA,Brasil,2024-06-16,Credito
+16,Lavínia,Montenegro,Feminino,105.327.498-04,60,10,Suporte Monitor,3,150.0,450.0,45.0,Viana Alegre,MT,Brasil,2024-01-31,Credito
+17,Emanuella,Fernandes,Feminino,851.470.392-79,34,06,Teclado,2,200.0,400.0,40.0,Ribeiro do Campo,DF,Brasil,2024-07-19,PIX
+18,Melissa,Leão,Feminino,289.745.163-73,27,06,Teclado,1,200.0,200.0,20.0,da Cruz de Melo,DF,Brasil,2024-11-26,Debito
+19,Eduardo,Almeida,Masculino,620.713.854-62,39,01,Notebook,1,3500.0,3500.0,350.0,Monteiro das Flores,CE,Brasil,2024-05-22,Especie
+20,Ana Carolina,Cirino,Feminino,426.351.709-16,30,01,Notebook,1,3500.0,3500.0,350.0,Nunes,AM,Brasil,2024-04-21,Credito
+21,Arthur Miguel,Aparecida,Masculino,130.728.459-05,44,09,Cadeira Gamer,1,900.0,900.0,90.0,Aparecida,ES,Brasil,2024-09-27,Debito
+22,Vinicius,Costela,Masculino,852.146.907-11,59,08,HeadSet,3,250.0,750.0,75.0,da Rocha da Praia,PA,Brasil,2024-04-24,Debito
+23,Nathan,Oliveira,Masculino,798.136.542-28,47,09,Cadeira Gamer,3,900.0,2700.0,270.0,Farias de Martins,DF,Brasil,2024-04-22,PIX
+24,Allana,Fogaça,Feminino,894.307.615-01,26,07,Mouse,1,80.0,80.0,8.0,Castro do Oeste,PI,Brasil,2024-11-13,Credito
+25,Benjamim,Garcia,Masculino,374.012.965-43,48,08,HeadSet,1,250.0,250.0,25.0,Barros,CE,Brasil,2024-07-28,Credito
+26,Emanuelly,Viana,Feminino,473.619.802-87,18,10,Suporte Monitor,2,150.0,300.0,30.0,Pacheco,DF,Brasil,2024-11-11,Especie
+27,Danilo,Mendonça,Masculino,906.374.821-31,58,02,Smartphone,2,2000.0,4000.0,400.0,Cavalcanti,PR,Brasil,2024-10-21,Debito
+28,Maya,Nunes,Feminino,964.853.127-73,54,10,Suporte Monitor,3,150.0,450.0,45.0,Pereira,CE,Brasil,2024-09-16,Especie
+29,Joana,Ribeiro,Feminino,952.608.341-51,41,03,Tablet,3,3000.0,9000.0,900.0,Lima,RS,Brasil,2024-11-23,Debito
+30,Ana,Nogueira,Feminino,650.782.914-58,54,04,Impressora,1,800.0,800.0,80.0,Silveira,TO,Brasil,2024-03-24,Especie
+31,Yasmin,Campos,Feminino,508.296.713-40,58,04,Impressora,2,800.0,1600.0,160.0,Porto de Nunes,BA,Brasil,2024-07-27,Especie
+32,Ana Vitória,da Cruz,Feminino,168.392.570-02,23,01,Notebook,2,3500.0,7000.0,700.0,Fogaça Paulista,AP,Brasil,2024-09-30,Especie
+33,João Vitor,Moreira,Masculino,028.351.769-77,58,03,Tablet,3,3000.0,9000.0,900.0,das Neves dos Dourados,PA,Brasil,2024-08-25,Credito
+34,Gustavo Henrique,Pires,Masculino,509.732.148-05,50,07,Mouse,1,80.0,80.0,8.0,Nogueira,PI,Brasil,2024-05-11,Debito
+35,Maria Alice,Vargas,Feminino,563.829.047-83,57,02,Smartphone,3,2000.0,6000.0,600.0,Leão do Amparo,DF,Brasil,2024-09-20,Especie
+36,Arthur,Vasconcelos,Masculino,831.260.947-40,27,04,Impressora,1,800.0,800.0,80.0,Andrade,AC,Brasil,2024-07-19,Credito
+37,Heitor,Silveira,Masculino,806.745.391-84,24,03,Tablet,1,3000.0,3000.0,300.0,Rezende,BA,Brasil,2024-04-23,Debito
+38,Arthur,Correia,Masculino,471.503.629-07,40,01,Notebook,3,3500.0,10500.0,1050.0,Borges do Amparo,MS,Brasil,2024-08-03,Especie
+39,Lucca,Garcia,Masculino,482.756.013-71,31,06,Teclado,3,200.0,600.0,60.0,Sá,BA,Brasil,2024-12-17,Credito
+40,Mariah,Fonseca,Feminino,423.978.601-04,33,03,Tablet,1,3000.0,3000.0,300.0,Pereira,AL,Brasil,2024-07-24,PIX
+41,Carolina,Leão,Feminino,840.519.762-11,56,08,HeadSet,2,250.0,500.0,50.0,Fernandes,RJ,Brasil,2024-04-11,PIX
+42,Stephany,Aragão,Feminino,572.346.091-99,22,08,HeadSet,1,250.0,250.0,25.0,Carvalho do Oeste,RS,Brasil,2024-05-27,Credito
+43,Amanda,Albuquerque,Feminino,419.678.032-69,38,03,Tablet,1,3000.0,3000.0,300.0,Novais,RS,Brasil,2024-07-18,PIX
+44,João Lucas,Gomes,Masculino,493.062.518-15,30,03,Tablet,3,3000.0,9000.0,900.0,Aparecida Paulista,PB,Brasil,2024-09-27,Credito
+45,Leonardo,Rezende,Masculino,349.628.017-40,26,05,Monitor,3,950.0,2850.0,285.0,Leão das Flores,MG,Brasil,2024-06-15,Credito
+46,Antônio,Araújo,Masculino,863.094.571-01,32,07,Mouse,2,80.0,160.0,16.0,da Rocha,PA,Brasil,2024-01-01,Debito
+47,Lívia,Pimenta,Feminino,871.250.436-07,57,03,Tablet,1,3000.0,3000.0,300.0,Azevedo,AP,Brasil,2024-04-25,PIX
+48,Benjamin,Ribeiro,Masculino,413.870.962-22,29,09,Cadeira Gamer,1,900.0,900.0,90.0,Pereira,TO,Brasil,2024-10-02,Especie
+49,Davi,Guerra,Masculino,620.975.318-30,39,06,Teclado,2,200.0,400.0,40.0,da Rocha,PI,Brasil,2024-05-12,PIX
+50,Luigi,Moreira,Masculino,075.361.289-59,24,07,Mouse,2,80.0,160.0,16.0,Silveira da Prata,RS,Brasil,2024-04-20,PIX
+51,Felipe,Souza,Masculino,160.485.293-33,50,02,Smartphone,1,2000.0,2000.0,200.0,Aparecida,AM,Brasil,2024-03-27,Credito
+52,Heloísa,Oliveira,Feminino,617.058.243-07,35,10,Suporte Monitor,2,150.0,300.0,30.0,da Conceição do Oeste,AL,Brasil,2024-11-16,Credito
+53,Luigi,Peixoto,Masculino,615.372.894-46,53,10,Suporte Monitor,3,150.0,450.0,45.0,Teixeira,GO,Brasil,2024-01-22,Especie
+54,Vinicius,Freitas,Masculino,941.723.508-79,42,09,Cadeira Gamer,3,900.0,2700.0,270.0,das Neves,TO,Brasil,2024-07-23,PIX
+55,Mathias,Farias,Masculino,573.086.149-48,46,10,Suporte Monitor,2,150.0,300.0,30.0,Barbosa da Mata,PI,Brasil,2024-01-19,PIX
+56,Alice,da Conceição,Feminino,570.169.238-86,18,08,HeadSet,2,250.0,500.0,50.0,Cardoso,SP,Brasil,2024-07-03,Especie
+57,Henrique,Melo,Masculino,047.628.913-04,41,05,Monitor,2,950.0,1900.0,190.0,Leão,MG,Brasil,2024-02-10,PIX
+58,Luiz Fernando,Azevedo,Masculino,560.327.189-21,30,08,HeadSet,1,250.0,250.0,25.0,Azevedo,AL,Brasil,2024-09-12,Debito
+59,Eduarda,Ramos,Feminino,167.908.342-22,51,09,Cadeira Gamer,2,900.0,1800.0,180.0,Silveira das Flores,PA,Brasil,2024-06-24,Credito
+60,Thales,Cardoso,Masculino,532.791.408-97,34,02,Smartphone,1,2000.0,2000.0,200.0,Freitas Grande,MS,Brasil,2024-02-29,Credito
+61,Lívia,Monteiro,Feminino,107.532.684-26,37,10,Suporte Monitor,3,150.0,450.0,45.0,Monteiro,PE,Brasil,2024-11-04,Debito
+62,Lívia,Dias,Feminino,543.907.682-47,47,02,Smartphone,1,2000.0,2000.0,200.0,Pinto,MA,Brasil,2024-11-26,PIX
+63,Francisco,Cavalcante,Masculino,421.970.583-04,43,08,HeadSet,1,250.0,250.0,25.0,Abreu das Pedras,MA,Brasil,2024-11-28,Credito
+64,Henrique,Gonçalves,Masculino,179.425.380-79,25,04,Impressora,2,800.0,1600.0,160.0,Farias de Rodrigues,AP,Brasil,2024-04-28,Debito
+65,Yasmin,Sales,Feminino,147.830.526-62,31,06,Teclado,3,200.0,600.0,60.0,Marques,RN,Brasil,2024-06-03,PIX
+66,Lorena,Casa Grande,Feminino,684.329.150-33,25,05,Monitor,2,950.0,1900.0,190.0,Melo de Goiás,RO,Brasil,2024-01-11,Debito
+67,Luiz Henrique,Fogaça,Masculino,850.367.149-20,37,07,Mouse,3,80.0,240.0,24.0,Moraes da Serra,AP,Brasil,2024-10-31,Especie
+68,Cecília,Silva,Feminino,254.819.073-05,35,01,Notebook,1,3500.0,3500.0,350.0,Teixeira Verde,RJ,Brasil,2024-01-14,PIX
+69,Manuella,da Luz,Feminino,458.097.236-83,19,09,Cadeira Gamer,1,900.0,900.0,90.0,Nunes de Castro,PI,Brasil,2024-03-17,Especie
+70,João Miguel,Gomes,Masculino,578.019.436-00,23,07,Mouse,1,80.0,80.0,8.0,Pinto Alegre,MT,Brasil,2024-03-15,PIX
+71,Ana Lívia,Camargo,Feminino,253.706.184-53,27,10,Suporte Monitor,3,150.0,450.0,45.0,Albuquerque,CE,Brasil,2024-08-07,Debito
+72,Hellena,Alves,Feminino,450.789.613-48,24,01,Notebook,1,3500.0,3500.0,350.0,Camargo,AM,Brasil,2024-08-30,Debito
+73,Dante,Barbosa,Masculino,704.396.852-65,23,01,Notebook,3,3500.0,10500.0,1050.0,Rezende Verde,PR,Brasil,2024-10-02,Debito
+74,Oliver,Abreu,Masculino,635.218.407-35,24,08,HeadSet,3,250.0,750.0,75.0,Marques da Serra,AL,Brasil,2024-01-04,Especie
+75,Luna,Garcia,Feminino,328.740.196-31,19,08,HeadSet,2,250.0,500.0,50.0,Sá,PI,Brasil,2024-09-09,PIX
+76,Alice,Porto,Feminino,617.385.240-35,40,03,Tablet,2,3000.0,6000.0,600.0,Correia,MA,Brasil,2024-12-01,Especie
+77,Alícia,Vargas,Feminino,078.354.129-50,48,10,Suporte Monitor,1,150.0,150.0,15.0,Pastor,TO,Brasil,2024-03-02,Debito
+78,Leandro,Gonçalves,Masculino,402.375.869-83,51,09,Cadeira Gamer,3,900.0,2700.0,270.0,Cirino,PI,Brasil,2024-02-28,PIX
+79,Allana,Fonseca,Feminino,592.018.467-11,23,09,Cadeira Gamer,2,900.0,1800.0,180.0,Farias do Sul,MT,Brasil,2024-05-18,Credito
+80,Luna,Câmara,Feminino,307.945.816-84,56,01,Notebook,1,3500.0,3500.0,350.0,Leão Alegre,MT,Brasil,2024-06-27,Credito
+81,Isadora,Aparecida,Feminino,816.539.470-39,22,04,Impressora,3,800.0,2400.0,240.0,Sousa,SE,Brasil,2024-01-06,Credito
+82,Maria Flor,Melo,Feminino,126.579.830-30,18,04,Impressora,1,800.0,800.0,80.0,Peixoto,AC,Brasil,2024-07-03,Especie
+83,Elisa,Siqueira,Feminino,483.169.702-87,54,07,Mouse,3,80.0,240.0,24.0,Nogueira de Fonseca,DF,Brasil,2024-12-01,Especie
+84,Isabelly,Moura,Feminino,295.483.160-05,46,06,Teclado,3,200.0,600.0,60.0,Costa,PE,Brasil,2024-02-14,Credito
+85,Arthur Gabriel,Cardoso,Masculino,893.457.120-97,19,03,Tablet,3,3000.0,9000.0,900.0,Nunes,RO,Brasil,2024-08-24,PIX
+86,Maria Liz,Viana,Feminino,132.697.045-34,47,08,HeadSet,3,250.0,750.0,75.0,Gonçalves das Pedras,PI,Brasil,2024-03-14,Credito
+87,Eduardo,Vieira,Masculino,248.107.365-71,59,10,Suporte Monitor,3,150.0,450.0,45.0,Sá,AC,Brasil,2024-07-01,PIX
+88,Ana Julia,Garcia,Feminino,846.593.017-10,48,09,Cadeira Gamer,1,900.0,900.0,90.0,Sá de Cavalcante,SE,Brasil,2024-02-08,Debito
+89,Letícia,Cavalcante,Feminino,374.265.809-38,58,01,Notebook,3,3500.0,10500.0,1050.0,Fogaça Paulista,MA,Brasil,2024-05-23,Especie
+90,Benício,Pimenta,Masculino,328.154.607-26,21,08,HeadSet,2,250.0,500.0,50.0,Gonçalves,RR,Brasil,2024-08-06,Especie
+91,Isabella,da Mata,Feminino,864.759.013-93,38,02,Smartphone,2,2000.0,4000.0,400.0,da Cunha Paulista,MA,Brasil,2024-09-25,Especie
+92,Melissa,da Mata,Feminino,829.053.416-70,19,01,Notebook,3,3500.0,10500.0,1050.0,Costela,RS,Brasil,2024-10-24,Credito
+93,Davi,da Costa,Masculino,387.056.291-95,40,04,Impressora,2,800.0,1600.0,160.0,Sales,MT,Brasil,2024-06-12,Debito
+94,Rafaela,da Luz,Feminino,149.370.682-96,45,04,Impressora,2,800.0,1600.0,160.0,Viana do Sul,RJ,Brasil,2024-06-22,Especie
+95,Rael,Peixoto,Masculino,817.632.450-71,52,06,Teclado,2,200.0,400.0,40.0,Azevedo,GO,Brasil,2024-03-01,Debito
+96,Arthur Gabriel,Alves,Masculino,130.629.487-87,34,08,HeadSet,2,250.0,500.0,50.0,Moura de Albuquerque,AP,Brasil,2024-12-29,Credito
+97,Maria Luiza,Pinto,Feminino,905.286.134-05,21,10,Suporte Monitor,1,150.0,150.0,15.0,Novaes,AC,Brasil,2024-10-27,PIX
+98,Matheus,Almeida,Masculino,068.175.924-02,52,06,Teclado,3,200.0,600.0,60.0,Correia do Norte,ES,Brasil,2024-10-14,PIX
+99,Alícia,Novaes,Feminino,794.308.261-31,39,07,Mouse,2,80.0,160.0,16.0,Araújo do Galho,AC,Brasil,2024-03-18,PIX
+100,Léo,Jesus,Masculino,590.832.641-06,47,05,Monitor,3,950.0,2850.0,285.0,Melo,GO,Brasil,2024-01-20,Debito
+101,Rodrigo,Ramos,Masculino,845.197.326-46,22,01,Notebook,2,3500.0,7000.0,700.0,Pires,MT,Brasil,2024-03-06,Especie
+102,Liz,Rezende,Feminino,526.491.380-33,55,05,Monitor,3,950.0,2850.0,285.0,da Luz de Rocha,RR,Brasil,2024-10-21,Credito
+103,Juliana,Monteiro,Feminino,790.354.681-39,51,05,Monitor,2,950.0,1900.0,190.0,Correia,PB,Brasil,2024-01-11,PIX
+104,Ana Cecília,Pastor,Feminino,421.386.759-55,58,02,Smartphone,1,2000.0,2000.0,200.0,Azevedo,RS,Brasil,2024-07-15,Credito
+105,Pedro Miguel,Nunes,Masculino,957.642.813-00,33,02,Smartphone,1,2000.0,2000.0,200.0,Ferreira Alegre,PB,Brasil,2024-12-01,PIX
+106,Mariah,Gonçalves,Feminino,326.107.549-06,52,04,Impressora,3,800.0,2400.0,240.0,Moraes das Flores,PR,Brasil,2024-12-29,Debito
+107,Helena,Costela,Feminino,294.501.687-76,40,03,Tablet,3,3000.0,9000.0,900.0,da Paz de Silva,RJ,Brasil,2024-06-08,Credito
+108,Murilo,Sales,Masculino,410.683.952-06,37,01,Notebook,1,3500.0,3500.0,350.0,Castro,PA,Brasil,2024-08-12,PIX
+109,Léo,da Cunha,Masculino,637.048.159-93,28,04,Impressora,2,800.0,1600.0,160.0,Casa Grande,CE,Brasil,2024-08-28,PIX
+110,Lucas,Monteiro,Masculino,130.562.497-16,52,10,Suporte Monitor,3,150.0,450.0,45.0,Garcia do Galho,MS,Brasil,2024-08-19,Credito
+111,Eloá,Carvalho,Feminino,764.038.291-22,34,10,Suporte Monitor,3,150.0,450.0,45.0,Sá de Rios,AM,Brasil,2024-06-21,PIX
+112,José Miguel,Pastor,Masculino,096.245.813-98,43,01,Notebook,3,3500.0,10500.0,1050.0,Guerra,PI,Brasil,2024-06-12,Credito
+113,Beatriz,Gomes,Feminino,129.745.380-88,51,04,Impressora,1,800.0,800.0,80.0,Gonçalves do Galho,TO,Brasil,2024-08-16,PIX
+114,Lucca,Caldeira,Masculino,726.158.039-21,49,05,Monitor,2,950.0,1900.0,190.0,Garcia,MT,Brasil,2024-03-08,Debito
+115,Léo,Santos,Masculino,183.590.267-77,35,07,Mouse,3,80.0,240.0,24.0,Lima,PB,Brasil,2024-09-12,Debito
+116,Henry Gabriel,Azevedo,Masculino,938.702.615-95,26,03,Tablet,2,3000.0,6000.0,600.0,Pimenta,PB,Brasil,2024-06-18,Debito
+117,Maria Isis,Fernandes,Feminino,408.963.712-04,47,04,Impressora,2,800.0,1600.0,160.0,Gonçalves,SC,Brasil,2024-01-16,Credito
+118,Manuella,Rodrigues,Feminino,732.489.051-23,21,07,Mouse,3,80.0,240.0,24.0,Santos de Rios,ES,Brasil,2024-07-06,Debito
+119,Maria,Ramos,Feminino,136.759.408-10,52,07,Mouse,1,80.0,80.0,8.0,Pereira,AC,Brasil,2024-03-27,Debito
+120,Maria Cecília,Pacheco,Feminino,432.976.051-70,39,02,Smartphone,1,2000.0,2000.0,200.0,Mendonça,PA,Brasil,2024-09-24,PIX
+121,Arthur Gabriel,Abreu,Masculino,708.629.451-94,39,08,HeadSet,2,250.0,500.0,50.0,da Mata Verde,PI,Brasil,2024-01-13,Debito
+122,Marina,Freitas,Feminino,758.024.391-14,57,05,Monitor,2,950.0,1900.0,190.0,Sales de Minas,AP,Brasil,2024-05-08,Debito
+123,Pietro,Borges,Masculino,408.631.952-70,46,09,Cadeira Gamer,1,900.0,900.0,90.0,Freitas de da Cunha,RN,Brasil,2024-10-09,Debito
+124,Catarina,Martins,Feminino,674.983.102-87,42,07,Mouse,3,80.0,240.0,24.0,Rodrigues das Flores,MS,Brasil,2024-02-10,Debito
+125,Lavínia,Vasconcelos,Feminino,673.015.948-01,20,04,Impressora,2,800.0,1600.0,160.0,Pimenta,MA,Brasil,2024-01-30,Credito
+126,Natália,Alves,Feminino,378.240.651-62,19,05,Monitor,1,950.0,950.0,95.0,da Costa das Pedras,CE,Brasil,2024-05-21,Credito
+127,Matheus,Castro,Masculino,369.845.217-00,42,02,Smartphone,3,2000.0,6000.0,600.0,da Costa,RO,Brasil,2024-03-14,Credito
+128,André,Andrade,Masculino,796.421.385-73,32,02,Smartphone,3,2000.0,6000.0,600.0,Câmara,SE,Brasil,2024-02-01,Especie
+129,Lorena,da Rocha,Feminino,475.283.901-60,57,04,Impressora,3,800.0,2400.0,240.0,Pimenta do Oeste,RR,Brasil,2024-08-04,Debito
+130,Isadora,Sá,Feminino,372.541.860-80,54,02,Smartphone,1,2000.0,2000.0,200.0,Leão Grande,RO,Brasil,2024-07-06,PIX
+131,Milena,Sales,Feminino,638.419.075-39,34,10,Suporte Monitor,3,150.0,450.0,45.0,Barros Verde,CE,Brasil,2024-03-01,Especie
+132,Danilo,Rios,Masculino,021.893.674-50,43,09,Cadeira Gamer,3,900.0,2700.0,270.0,Cavalcante,RR,Brasil,2024-08-15,Debito
+133,Joana,Pimenta,Feminino,093.651.487-66,26,05,Monitor,1,950.0,950.0,95.0,Pimenta,SC,Brasil,2024-10-21,PIX
+134,Mariane,Moura,Feminino,015.697.482-76,19,05,Monitor,3,950.0,2850.0,285.0,Oliveira dos Dourados,MG,Brasil,2024-10-12,Especie
+135,Breno,Rezende,Masculino,097.318.426-40,30,08,HeadSet,3,250.0,750.0,75.0,Cunha,GO,Brasil,2024-05-02,Debito
+136,Cauã,da Conceição,Masculino,284.906.513-70,48,08,HeadSet,3,250.0,750.0,75.0,Sampaio de Sousa,RN,Brasil,2024-09-07,Especie
+137,Alana,Guerra,Feminino,129.638.745-37,38,02,Smartphone,1,2000.0,2000.0,200.0,Pimenta,SE,Brasil,2024-05-08,PIX
+138,Lucas,Carvalho,Masculino,279.346.158-09,34,09,Cadeira Gamer,2,900.0,1800.0,180.0,da Costa do Oeste,RN,Brasil,2024-08-16,PIX
+139,Liz,Rezende,Feminino,016.749.238-13,20,08,HeadSet,2,250.0,500.0,50.0,Machado,CE,Brasil,2024-06-24,Especie
+140,Luna,Jesus,Feminino,145.873.029-88,60,07,Mouse,3,80.0,240.0,24.0,Sousa,AM,Brasil,2024-02-14,Debito
+141,Luiz Fernando,Camargo,Masculino,130.587.692-02,40,07,Mouse,2,80.0,160.0,16.0,Abreu,RJ,Brasil,2024-09-09,Debito
+142,Isaac,Moura,Masculino,683.941.725-55,37,08,HeadSet,2,250.0,500.0,50.0,Guerra do Amparo,SP,Brasil,2024-12-08,Credito
+143,Benicio,Pastor,Masculino,982.163.540-70,37,02,Smartphone,2,2000.0,4000.0,400.0,Cavalcanti,PA,Brasil,2024-12-24,PIX
+144,Erick,Santos,Masculino,714.602.359-16,45,04,Impressora,3,800.0,2400.0,240.0,da Rocha,MA,Brasil,2024-11-22,Debito
+145,Ayla,Vieira,Feminino,201.483.657-44,32,06,Teclado,2,200.0,400.0,40.0,Ferreira,BA,Brasil,2024-12-09,Debito
+146,Lucas Gabriel,Borges,Masculino,673.214.850-80,22,07,Mouse,2,80.0,160.0,16.0,Vasconcelos Alegre,SE,Brasil,2024-08-09,PIX
+147,Gael Henrique,Nunes,Masculino,021.759.468-94,35,07,Mouse,1,80.0,80.0,8.0,Pimenta,SP,Brasil,2024-04-20,Debito
+148,Natália,Moraes,Feminino,140.785.326-08,30,02,Smartphone,1,2000.0,2000.0,200.0,da Conceição,PR,Brasil,2024-04-06,PIX
+149,Eloah,Sales,Feminino,742.918.635-19,21,02,Smartphone,3,2000.0,6000.0,600.0,Carvalho,AC,Brasil,2024-09-30,PIX
+150,Benicio,Jesus,Masculino,539.671.042-06,51,06,Teclado,1,200.0,200.0,20.0,Costa,PR,Brasil,2024-10-10,Credito
+151,Diego,Pimenta,Masculino,972.041.368-96,42,08,HeadSet,3,250.0,750.0,75.0,Fogaça,RO,Brasil,2024-09-16,Credito
+152,Julia,Azevedo,Feminino,074.623.815-08,56,03,Tablet,3,3000.0,9000.0,900.0,Machado,GO,Brasil,2024-10-29,Credito
+153,Liam,Barros,Masculino,180.569.234-89,21,05,Monitor,2,950.0,1900.0,190.0,Abreu de Cavalcante,PA,Brasil,2024-12-16,Debito
+154,Lara,Cavalcanti,Feminino,240.536.918-42,24,01,Notebook,3,3500.0,10500.0,1050.0,Cassiano de Minas,PI,Brasil,2024-09-22,Credito
+155,Maria Helena,Ferreira,Feminino,368.572.491-64,25,09,Cadeira Gamer,2,900.0,1800.0,180.0,Souza do Campo,RO,Brasil,2024-06-20,PIX
+156,Ana Cecília,Sampaio,Feminino,486.097.513-84,34,05,Monitor,2,950.0,1900.0,190.0,Sampaio das Flores,SP,Brasil,2024-06-06,PIX
+157,Davi Lucas,Jesus,Masculino,408.152.973-60,51,03,Tablet,3,3000.0,9000.0,900.0,Garcia Grande,RS,Brasil,2024-06-12,Credito
+158,Daniel,Almeida,Masculino,508.946.132-51,58,02,Smartphone,3,2000.0,6000.0,600.0,Marques,PR,Brasil,2024-05-15,Debito
+159,Alícia,Nogueira,Feminino,153.907.846-93,51,08,HeadSet,2,250.0,500.0,50.0,Aparecida do Sul,TO,Brasil,2024-09-09,PIX
+160,Isabella,Correia,Feminino,175.402.896-94,59,04,Impressora,3,800.0,2400.0,240.0,Albuquerque do Campo,RR,Brasil,2024-04-22,PIX
+161,Manuela,Andrade,Feminino,693.017.458-01,29,03,Tablet,2,3000.0,6000.0,600.0,Moraes,RO,Brasil,2024-05-17,Debito
+162,Antônio,Cirino,Masculino,302.849.176-13,41,09,Cadeira Gamer,3,900.0,2700.0,270.0,Moreira,RS,Brasil,2024-08-25,Credito
+163,Felipe,Porto,Masculino,576.013.294-61,29,02,Smartphone,1,2000.0,2000.0,200.0,da Cunha,MG,Brasil,2024-04-01,Especie
+164,Davi Lucas,Almeida,Masculino,425.098.736-10,25,03,Tablet,3,3000.0,9000.0,900.0,Barros,RN,Brasil,2024-10-01,Credito
+165,Ana Cecília,da Cruz,Feminino,934.206.517-16,59,06,Teclado,2,200.0,400.0,40.0,Melo do Galho,ES,Brasil,2024-01-11,PIX
+166,Ana Beatriz,da Luz,Feminino,563.108.794-48,45,06,Teclado,2,200.0,400.0,40.0,Borges do Norte,PR,Brasil,2024-11-26,Especie
+167,Joaquim,Duarte,Masculino,369.270.184-50,37,05,Monitor,2,950.0,1900.0,190.0,Aparecida da Praia,RR,Brasil,2024-12-15,Debito
+168,Davi Lucas,Caldeira,Masculino,167.903.285-21,20,04,Impressora,1,800.0,800.0,80.0,Cardoso,MA,Brasil,2024-04-26,PIX
+169,Bianca,Correia,Feminino,786.150.423-90,57,03,Tablet,2,3000.0,6000.0,600.0,Ribeiro das Flores,MG,Brasil,2024-12-20,Debito
+170,Anthony Gabriel,da Mota,Masculino,183.609.572-40,46,06,Teclado,3,200.0,600.0,60.0,Costa,RR,Brasil,2024-07-06,Debito
+171,Alícia,Souza,Feminino,895.742.631-00,46,05,Monitor,2,950.0,1900.0,190.0,Santos,ES,Brasil,2024-07-25,Credito
+172,Liam,Gonçalves,Masculino,281.056.349-70,31,04,Impressora,3,800.0,2400.0,240.0,Siqueira do Oeste,MG,Brasil,2024-12-03,Especie
+173,Benicio,Marques,Masculino,439.058.617-39,60,04,Impressora,1,800.0,800.0,80.0,Farias,AP,Brasil,2024-01-16,PIX
+174,Lavínia,Carvalho,Feminino,985.402.371-05,38,01,Notebook,3,3500.0,10500.0,1050.0,Teixeira do Amparo,TO,Brasil,2024-05-22,Debito
+175,João Felipe,Teixeira,Masculino,609.378.124-04,56,08,HeadSet,2,250.0,500.0,50.0,Sampaio,SC,Brasil,2024-02-08,Credito
+176,Daniela,Moreira,Feminino,290.713.856-12,26,04,Impressora,3,800.0,2400.0,240.0,Borges da Serra,CE,Brasil,2024-03-29,Especie
+177,Amanda,Caldeira,Feminino,714.608.259-85,38,03,Tablet,3,3000.0,9000.0,900.0,Rios da Serra,MT,Brasil,2024-07-05,PIX
+178,Antônio,Castro,Masculino,941.865.072-01,57,10,Suporte Monitor,2,150.0,300.0,30.0,Moraes de Goiás,PB,Brasil,2024-11-18,Especie
+179,Maria Eduarda,Gonçalves,Feminino,823.516.407-80,26,04,Impressora,1,800.0,800.0,80.0,Cardoso,AP,Brasil,2024-03-05,Especie
+180,Luna,Moreira,Feminino,873.150.924-04,57,04,Impressora,1,800.0,800.0,80.0,Pastor de da Mata,PA,Brasil,2024-06-22,Credito
+181,Ana Julia,Nascimento,Feminino,039.574.168-84,49,04,Impressora,3,800.0,2400.0,240.0,Macedo,RJ,Brasil,2024-11-30,Credito
+182,Heloisa,Costa,Feminino,762.830.459-10,55,02,Smartphone,2,2000.0,4000.0,400.0,Peixoto,RS,Brasil,2024-12-03,Debito
+183,Letícia,Lopes,Feminino,243.051.689-60,45,01,Notebook,2,3500.0,7000.0,700.0,Sá da Praia,PA,Brasil,2024-12-11,Especie
+184,Renan,Pereira,Masculino,538.041.976-39,57,08,HeadSet,3,250.0,750.0,75.0,Santos Verde,PE,Brasil,2024-10-26,Credito
+185,Lívia,Rocha,Feminino,390.625.184-51,25,07,Mouse,2,80.0,160.0,16.0,Leão de Sá,AM,Brasil,2024-01-30,Credito
+186,Ana Beatriz,Pacheco,Feminino,421.603.789-50,43,02,Smartphone,1,2000.0,2000.0,200.0,Teixeira de Goiás,ES,Brasil,2024-03-20,Debito
+187,Guilherme,Albuquerque,Masculino,268.905.471-01,41,07,Mouse,3,80.0,240.0,24.0,Cavalcanti dos Dourados,MG,Brasil,2024-05-12,Credito
+188,Mirella,Vargas,Feminino,861.392.570-77,34,08,HeadSet,3,250.0,750.0,75.0,Pacheco de Costa,AP,Brasil,2024-03-16,Especie
+189,Arthur Gabriel,Camargo,Masculino,592.378.640-00,30,10,Suporte Monitor,3,150.0,450.0,45.0,Teixeira,MT,Brasil,2024-02-22,PIX
+190,Rodrigo,Cavalcanti,Masculino,910.278.654-02,41,09,Cadeira Gamer,1,900.0,900.0,90.0,Macedo,SC,Brasil,2024-09-19,Especie
+191,Lorena,da Costa,Feminino,602.715.439-06,41,09,Cadeira Gamer,2,900.0,1800.0,180.0,Gonçalves de da Paz,AC,Brasil,2024-06-16,PIX
+192,Alana,Moura,Feminino,905.826.374-65,60,08,HeadSet,1,250.0,250.0,25.0,da Mata,MT,Brasil,2024-12-25,Credito
+193,Ravi Lucca,Lopes,Masculino,457.298.360-74,21,06,Teclado,3,200.0,600.0,60.0,Melo da Serra,AC,Brasil,2024-07-17,Especie
+194,Asafe,Porto,Masculino,079.842.536-92,19,10,Suporte Monitor,1,150.0,150.0,15.0,Abreu,TO,Brasil,2024-09-06,Debito
+195,Ísis,Nogueira,Feminino,682.731.504-53,45,05,Monitor,3,950.0,2850.0,285.0,Campos de Cunha,RO,Brasil,2024-08-08,PIX
+196,José Pedro,da Luz,Masculino,865.471.392-55,21,10,Suporte Monitor,1,150.0,150.0,15.0,Moura,SP,Brasil,2024-07-12,Credito
+197,Calebe,Novais,Masculino,974.815.062-30,29,08,HeadSet,1,250.0,250.0,25.0,Ramos,MG,Brasil,2024-09-17,Credito
+198,Levi,Vasconcelos,Masculino,381.604.957-57,27,03,Tablet,3,3000.0,9000.0,900.0,Rios do Sul,BA,Brasil,2024-06-27,Credito
+199,Otto,Rios,Masculino,274.581.906-20,59,01,Notebook,2,3500.0,7000.0,700.0,Azevedo,SE,Brasil,2024-09-09,Especie
+200,Alana,Rodrigues,Feminino,274.651.039-16,29,09,Cadeira Gamer,2,900.0,1800.0,180.0,Ferreira Paulista,AP,Brasil,2024-08-20,PIX
+201,Mariana,Lima,Feminino,956.214.078-49,21,02,Smartphone,2,2000.0,4000.0,400.0,Nunes,PA,Brasil,2024-01-11,Debito
+202,Juliana,Rocha,Feminino,082.415.976-49,38,01,Notebook,3,3500.0,10500.0,1050.0,da Cunha Paulista,AP,Brasil,2024-11-09,Especie
+203,Agatha,da Paz,Feminino,489.302.617-87,51,07,Mouse,2,80.0,160.0,16.0,da Mota,RN,Brasil,2024-09-28,Especie
+204,Hadassa,da Paz,Feminino,307.156.289-68,46,06,Teclado,3,200.0,600.0,60.0,Borges,MA,Brasil,2024-05-31,Especie
+205,Clarice,Duarte,Feminino,548.710.263-53,24,06,Teclado,1,200.0,200.0,20.0,Brito,RJ,Brasil,2024-11-23,PIX
+206,Vinicius,Novaes,Masculino,496.015.287-76,38,05,Monitor,3,950.0,2850.0,285.0,Aragão da Serra,ES,Brasil,2024-08-10,Credito
+207,Zoe,da Luz,Feminino,986.037.415-57,26,06,Teclado,3,200.0,600.0,60.0,Pastor,PB,Brasil,2024-03-12,Credito
+208,Anthony Gabriel,Caldeira,Masculino,528.614.397-00,58,07,Mouse,1,80.0,80.0,8.0,Santos do Galho,CE,Brasil,2024-03-03,Especie
+209,Nicolas,Rios,Masculino,061.524.789-01,43,07,Mouse,2,80.0,160.0,16.0,Montenegro,MS,Brasil,2024-03-15,Debito
+210,Maria Flor,Gomes,Feminino,840.637.195-10,55,04,Impressora,3,800.0,2400.0,240.0,Albuquerque,BA,Brasil,2024-10-26,Debito
+211,Brenda,Novaes,Feminino,948.106.732-78,36,07,Mouse,3,80.0,240.0,24.0,Teixeira,PI,Brasil,2024-06-11,Credito
+212,Stella,Moreira,Feminino,216.789.504-67,39,08,HeadSet,2,250.0,500.0,50.0,Siqueira,SP,Brasil,2024-04-12,Debito
+213,Enzo,da Conceição,Masculino,095.621.483-51,57,02,Smartphone,2,2000.0,4000.0,400.0,da Luz do Oeste,MS,Brasil,2024-12-02,PIX
+214,Valentim,Vargas,Masculino,152.480.796-67,24,02,Smartphone,1,2000.0,2000.0,200.0,Rezende,GO,Brasil,2024-02-02,Especie
+215,Sophia,Cunha,Feminino,657.180.429-85,35,07,Mouse,1,80.0,80.0,8.0,Cassiano de Machado,BA,Brasil,2024-05-23,Credito
+216,Mariane,Vieira,Feminino,145.983.072-50,33,04,Impressora,1,800.0,800.0,80.0,Campos,DF,Brasil,2024-07-05,PIX
+217,Camila,Guerra,Feminino,278.906.154-85,20,03,Tablet,1,3000.0,3000.0,300.0,Nogueira,PA,Brasil,2024-06-19,Especie
+218,Theo,da Luz,Masculino,154.697.032-07,49,03,Tablet,1,3000.0,3000.0,300.0,Macedo,TO,Brasil,2024-04-14,Credito
+219,Gustavo Henrique,Alves,Masculino,804.791.253-41,23,09,Cadeira Gamer,2,900.0,1800.0,180.0,Peixoto,RJ,Brasil,2024-07-24,Especie
+220,Júlia,Novais,Feminino,583.041.697-20,18,07,Mouse,3,80.0,240.0,24.0,da Mata,PE,Brasil,2024-02-25,PIX
+221,Isaque,Lima,Masculino,824.310.695-24,47,07,Mouse,1,80.0,80.0,8.0,Nogueira,MG,Brasil,2024-03-12,Credito
+222,Sophia,da Paz,Feminino,853.614.207-35,27,04,Impressora,3,800.0,2400.0,240.0,da Rocha do Amparo,BA,Brasil,2024-06-23,Debito
+223,Emilly,Sampaio,Feminino,374.265.190-07,42,03,Tablet,1,3000.0,3000.0,300.0,Dias de Duarte,AL,Brasil,2024-10-30,Credito
+224,Igor,Pinto,Masculino,192.735.068-95,33,08,HeadSet,1,250.0,250.0,25.0,Pacheco de da Rosa,RR,Brasil,2024-11-18,Especie
+225,Luísa,Almeida,Feminino,305.274.981-14,47,08,HeadSet,2,250.0,500.0,50.0,da Cruz,SE,Brasil,2024-02-28,Debito
+226,Maria Luiza,da Cruz,Feminino,745.306.812-62,21,01,Notebook,2,3500.0,7000.0,700.0,Oliveira de Fernandes,RR,Brasil,2024-07-26,Especie
+227,Ágatha,Melo,Feminino,178.923.650-95,23,07,Mouse,1,80.0,80.0,8.0,da Rosa,MA,Brasil,2024-09-17,Especie
+228,Isis,Almeida,Feminino,405.319.872-05,37,02,Smartphone,3,2000.0,6000.0,600.0,Macedo,RR,Brasil,2024-02-28,PIX
+229,Clara,Mendonça,Feminino,241.639.850-42,47,07,Mouse,2,80.0,160.0,16.0,Pacheco,AL,Brasil,2024-06-19,PIX
+230,João Miguel,Viana,Masculino,930.721.865-02,60,05,Monitor,2,950.0,1900.0,190.0,da Mata das Flores,DF,Brasil,2024-05-29,Especie
+231,Stella,da Cunha,Feminino,031.876.542-07,51,01,Notebook,2,3500.0,7000.0,700.0,Andrade,PI,Brasil,2024-05-18,PIX
+232,João Felipe,Rocha,Masculino,921.087.564-85,26,08,HeadSet,3,250.0,750.0,75.0,Barbosa dos Dourados,DF,Brasil,2024-03-04,Debito
+233,Isabelly,Mendonça,Feminino,657.038.194-66,54,06,Teclado,3,200.0,600.0,60.0,Silveira de Correia,SC,Brasil,2024-12-10,Especie
+234,Carolina,Teixeira,Feminino,785.069.243-83,59,06,Teclado,1,200.0,200.0,20.0,Teixeira,RJ,Brasil,2024-04-11,Debito
+235,Pedro Miguel,Cirino,Masculino,732.906.815-21,52,03,Tablet,2,3000.0,6000.0,600.0,Lima,ES,Brasil,2024-06-03,Debito
+236,Manuella,Barros,Feminino,409.762.815-11,48,07,Mouse,3,80.0,240.0,24.0,Moura do Galho,SE,Brasil,2024-03-01,Credito
+237,Arthur Gabriel,Vieira,Masculino,385.417.269-91,41,01,Notebook,2,3500.0,7000.0,700.0,Fernandes Alegre,PA,Brasil,2024-03-23,Credito
+238,Mateus,da Cunha,Masculino,207.164.953-25,53,02,Smartphone,1,2000.0,2000.0,200.0,Martins,MS,Brasil,2024-08-26,Debito
+239,Samuel,Moura,Masculino,085.729.416-49,34,07,Mouse,3,80.0,240.0,24.0,Vieira do Norte,PB,Brasil,2024-05-07,Debito
+240,Beatriz,Pires,Feminino,091.268.453-42,46,04,Impressora,3,800.0,2400.0,240.0,Nascimento,PR,Brasil,2024-07-01,Credito
+241,Davi Miguel,Rios,Masculino,749.831.206-96,44,08,HeadSet,3,250.0,750.0,75.0,Araújo,RR,Brasil,2024-07-19,Debito
+242,Antony,Lopes,Masculino,628.059.437-83,42,04,Impressora,2,800.0,1600.0,160.0,Rocha da Praia,SE,Brasil,2024-06-06,Especie
+243,Maria Laura,Nascimento,Feminino,410.938.256-42,48,04,Impressora,1,800.0,800.0,80.0,Pinto,ES,Brasil,2024-12-18,PIX
+244,Paulo,da Luz,Masculino,759.364.120-16,32,03,Tablet,1,3000.0,3000.0,300.0,Sousa,RJ,Brasil,2024-03-09,Debito
+245,Bruno,Barbosa,Masculino,281.053.946-42,48,09,Cadeira Gamer,2,900.0,1800.0,180.0,Novaes do Norte,MA,Brasil,2024-12-25,Credito
+246,Lara,Sousa,Feminino,684.970.523-74,24,02,Smartphone,1,2000.0,2000.0,200.0,Almeida,ES,Brasil,2024-05-13,Credito
+247,Luiz Otávio,Lopes,Masculino,539.781.026-68,57,07,Mouse,3,80.0,240.0,24.0,Macedo,DF,Brasil,2024-03-27,Debito
+248,Brenda,Rezende,Feminino,589.730.216-21,56,04,Impressora,1,800.0,800.0,80.0,Jesus de da Conceição,RJ,Brasil,2024-06-01,Credito
+249,Sara,Rezende,Feminino,970.361.824-31,27,09,Cadeira Gamer,1,900.0,900.0,90.0,Cassiano,BA,Brasil,2024-03-15,Debito
+250,Antony,Farias,Masculino,549.102.836-33,24,08,HeadSet,3,250.0,750.0,75.0,Campos,MS,Brasil,2024-06-22,Credito
+251,Carlos Eduardo,Rios,Masculino,413.506.278-44,51,03,Tablet,2,3000.0,6000.0,600.0,Cassiano,RJ,Brasil,2024-05-09,Debito
+252,Lavínia,Jesus,Feminino,603.921.857-68,45,07,Mouse,1,80.0,80.0,8.0,das Neves,PR,Brasil,2024-07-13,Debito
+253,Diego,Fernandes,Masculino,750.316.289-95,36,09,Cadeira Gamer,2,900.0,1800.0,180.0,Gomes do Campo,SE,Brasil,2024-06-20,Debito
+254,Antônio,Azevedo,Masculino,864.017.253-62,30,08,HeadSet,3,250.0,750.0,75.0,Carvalho das Pedras,GO,Brasil,2024-06-01,Especie
+255,Murilo,Vasconcelos,Masculino,096.831.475-93,35,02,Smartphone,1,2000.0,2000.0,200.0,Mendonça Alegre,PB,Brasil,2024-05-15,Debito
+256,Sofia,Santos,Feminino,261.839.407-04,37,05,Monitor,1,950.0,950.0,95.0,Camargo dos Dourados,SE,Brasil,2024-12-01,Especie
+257,Maria Helena,Moreira,Feminino,827.695.301-86,60,02,Smartphone,3,2000.0,6000.0,600.0,Fogaça,AC,Brasil,2024-11-15,Credito
+258,Mathias,Sousa,Masculino,941.576.038-93,38,09,Cadeira Gamer,1,900.0,900.0,90.0,Castro,AL,Brasil,2024-05-08,PIX
+259,Apollo,Jesus,Masculino,791.528.403-79,44,02,Smartphone,1,2000.0,2000.0,200.0,Teixeira,SE,Brasil,2024-10-27,PIX
+260,Sofia,Teixeira,Feminino,683.407.925-47,43,07,Mouse,2,80.0,160.0,16.0,Leão,SE,Brasil,2024-07-23,Debito
+261,Antônio,Aparecida,Masculino,971.085.342-23,42,04,Impressora,1,800.0,800.0,80.0,Moura,RS,Brasil,2024-01-30,Credito
+262,Eloá,Cavalcanti,Feminino,928.706.351-68,49,07,Mouse,2,80.0,160.0,16.0,da Mota,MG,Brasil,2024-03-05,Especie
+263,Maria Luiza,Costa,Feminino,826.504.397-00,52,08,HeadSet,1,250.0,250.0,25.0,Rodrigues de Brito,GO,Brasil,2024-03-05,Debito
+264,Leonardo,Sá,Masculino,679.802.153-03,23,02,Smartphone,2,2000.0,4000.0,400.0,Pinto de Campos,RS,Brasil,2024-02-24,Credito
+265,Antônio,Lopes,Masculino,641.592.708-67,21,08,HeadSet,3,250.0,750.0,75.0,Freitas,CE,Brasil,2024-07-12,Credito
+266,Joana,Moraes,Feminino,761.934.285-00,21,10,Suporte Monitor,3,150.0,450.0,45.0,Castro Alegre,ES,Brasil,2024-08-18,Especie
+267,Maria Eduarda,das Neves,Feminino,560.279.134-52,56,05,Monitor,2,950.0,1900.0,190.0,Cavalcante do Norte,MG,Brasil,2024-02-10,PIX
+268,Ana Cecília,Andrade,Feminino,361.987.240-69,29,02,Smartphone,3,2000.0,6000.0,600.0,Freitas,SP,Brasil,2024-06-08,Especie
+269,Pedro Miguel,da Cruz,Masculino,459.063.872-00,53,06,Teclado,3,200.0,600.0,60.0,Ferreira de Vieira,MS,Brasil,2024-08-01,Debito
+270,Enzo Gabriel,Guerra,Masculino,381.295.760-40,47,04,Impressora,2,800.0,1600.0,160.0,Cunha,AP,Brasil,2024-10-19,Debito
+271,Helena,Sampaio,Feminino,239.017.845-60,46,07,Mouse,2,80.0,160.0,16.0,Sousa,RO,Brasil,2024-08-08,PIX
+272,João,Aparecida,Masculino,431.276.098-50,24,04,Impressora,2,800.0,1600.0,160.0,Carvalho,PE,Brasil,2024-01-20,Especie
+273,Isaac,Albuquerque,Masculino,602.438.759-83,55,04,Impressora,3,800.0,2400.0,240.0,Moraes Verde,MA,Brasil,2024-10-08,Debito
+274,Julia,Rocha,Feminino,725.316.049-52,59,07,Mouse,2,80.0,160.0,16.0,Gonçalves,RS,Brasil,2024-04-25,Especie
+275,Vicente,Lima,Masculino,683.940.521-42,25,10,Suporte Monitor,3,150.0,450.0,45.0,da Costa da Serra,RN,Brasil,2024-02-19,Especie
+276,Emanuella,Silva,Feminino,368.947.012-96,48,05,Monitor,1,950.0,950.0,95.0,da Paz do Galho,DF,Brasil,2024-09-21,Debito
+277,Gael,Moraes,Masculino,017.596.243-06,60,04,Impressora,2,800.0,1600.0,160.0,Moraes de Minas,AC,Brasil,2024-10-29,Especie
+278,Isabel,Borges,Feminino,319.652.807-30,47,06,Teclado,2,200.0,400.0,40.0,Marques de Fonseca,BA,Brasil,2024-12-02,Especie
+279,Théo,da Conceição,Masculino,947.126.850-85,21,05,Monitor,2,950.0,1900.0,190.0,Dias de Sá,MG,Brasil,2024-04-08,PIX
+280,Gustavo Henrique,Vasconcelos,Masculino,589.376.041-75,30,07,Mouse,3,80.0,240.0,24.0,Peixoto da Praia,TO,Brasil,2024-11-30,Credito
+281,Maria,Pimenta,Feminino,312.607.895-86,45,07,Mouse,1,80.0,80.0,8.0,Costa de Minas,PA,Brasil,2024-12-03,PIX
+282,Lavínia,Pacheco,Feminino,503.847.691-01,27,07,Mouse,3,80.0,240.0,24.0,Monteiro,RJ,Brasil,2024-01-12,Credito
+283,Hellena,Castro,Feminino,294.057.163-52,55,05,Monitor,1,950.0,950.0,95.0,Viana,DF,Brasil,2024-06-28,Debito
+284,Leonardo,Carvalho,Masculino,837.690.215-68,54,08,HeadSet,3,250.0,750.0,75.0,Lima da Mata,AM,Brasil,2024-01-30,PIX
+285,Benicio,Novais,Masculino,952.634.807-92,48,04,Impressora,3,800.0,2400.0,240.0,Dias da Serra,PR,Brasil,2024-07-13,Credito
+286,Mariana,da Mota,Feminino,953.684.710-84,27,05,Monitor,2,950.0,1900.0,190.0,Macedo de da Luz,SC,Brasil,2024-06-14,Credito
+287,Joaquim,Alves,Masculino,092.538.164-06,45,02,Smartphone,3,2000.0,6000.0,600.0,Andrade de Minas,SE,Brasil,2024-04-14,Debito
+288,Antony,Ribeiro,Masculino,245.370.916-06,36,02,Smartphone,3,2000.0,6000.0,600.0,Costela,PB,Brasil,2024-07-05,Debito
+289,Melina,Caldeira,Feminino,047.152.386-08,42,08,HeadSet,3,250.0,750.0,75.0,Moraes,PI,Brasil,2024-03-10,Debito
+290,Gabrielly,Sampaio,Feminino,413.829.657-37,38,03,Tablet,1,3000.0,3000.0,300.0,Freitas,MS,Brasil,2024-04-19,PIX
+291,Pietro,da Rosa,Masculino,578.019.632-02,39,05,Monitor,3,950.0,2850.0,285.0,Borges Verde,CE,Brasil,2024-03-03,Debito
+292,Gustavo Henrique,Araújo,Masculino,706.529.413-70,30,08,HeadSet,2,250.0,500.0,50.0,Castro,PA,Brasil,2024-12-21,Credito
+293,Otávio,Garcia,Masculino,306.419.275-25,34,05,Monitor,2,950.0,1900.0,190.0,Costa Grande,PB,Brasil,2024-07-04,Debito
+294,Yasmin,Abreu,Feminino,179.482.650-58,47,10,Suporte Monitor,2,150.0,300.0,30.0,Ribeiro,MS,Brasil,2024-05-19,Debito
+295,Dom,Barbosa,Masculino,253.784.091-79,31,01,Notebook,3,3500.0,10500.0,1050.0,Costela Grande,TO,Brasil,2024-03-26,Especie
+296,Isabelly,Rezende,Feminino,528.930.674-92,56,09,Cadeira Gamer,2,900.0,1800.0,180.0,Farias das Pedras,ES,Brasil,2024-07-14,Debito
+297,Davi Luiz,da Costa,Masculino,491.586.023-05,18,05,Monitor,1,950.0,950.0,95.0,Campos,PE,Brasil,2024-08-08,Credito
+298,Raquel,da Mota,Feminino,420.937.581-05,24,04,Impressora,2,800.0,1600.0,160.0,Dias,PR,Brasil,2024-09-06,Especie
+299,Cauê,Leão,Masculino,517.346.280-90,45,04,Impressora,1,800.0,800.0,80.0,Vargas Alegre,MT,Brasil,2024-05-24,PIX
+300,Ester,Albuquerque,Feminino,026.437.598-00,40,04,Impressora,1,800.0,800.0,80.0,Casa Grande de Minas,PB,Brasil,2024-03-27,Especie
+301,Leonardo,Pimenta,Masculino,195.267.340-25,57,02,Smartphone,2,2000.0,4000.0,400.0,Nascimento do Campo,PB,Brasil,2024-11-14,PIX
+302,Maria Liz,Vieira,Feminino,621.984.537-46,42,10,Suporte Monitor,3,150.0,450.0,45.0,Rodrigues,PE,Brasil,2024-10-15,PIX
+303,Heloisa,Machado,Feminino,631.470.582-71,59,08,HeadSet,1,250.0,250.0,25.0,Sá,DF,Brasil,2024-03-23,Debito
+304,Alícia,Azevedo,Feminino,549.780.123-41,58,06,Teclado,1,200.0,200.0,20.0,Sales,BA,Brasil,2024-12-25,Especie
+305,Emanuella,Moraes,Feminino,165.938.072-30,34,05,Monitor,2,950.0,1900.0,190.0,Novais,SP,Brasil,2024-07-24,Debito
+306,Yasmin,Andrade,Feminino,075.693.428-10,52,05,Monitor,2,950.0,1900.0,190.0,Costa Alegre,RR,Brasil,2024-02-21,Debito
+307,João Vitor,Ribeiro,Masculino,701.536.849-84,35,02,Smartphone,1,2000.0,2000.0,200.0,Pires de Nunes,RJ,Brasil,2024-03-28,PIX
+308,Benício,Rezende,Masculino,427.916.308-13,28,07,Mouse,1,80.0,80.0,8.0,Castro de Cassiano,PE,Brasil,2024-08-05,PIX
+309,Ravi Lucca,Sales,Masculino,562.379.801-21,35,03,Tablet,1,3000.0,3000.0,300.0,Souza,BA,Brasil,2024-01-02,Credito
+310,Júlia,da Mota,Feminino,862.930.514-24,52,05,Monitor,1,950.0,950.0,95.0,Moraes de Lopes,MT,Brasil,2024-01-23,Debito
+311,Rodrigo,Garcia,Masculino,961.035.842-05,31,04,Impressora,3,800.0,2400.0,240.0,Pires,RS,Brasil,2024-08-05,Debito
+312,Davi,Pastor,Masculino,031.729.658-21,32,10,Suporte Monitor,3,150.0,450.0,45.0,Camargo,TO,Brasil,2024-10-27,PIX
+313,Sara,Nunes,Feminino,054.976.138-10,54,10,Suporte Monitor,3,150.0,450.0,45.0,Montenegro,MS,Brasil,2024-01-27,Credito
+314,Lucas Gabriel,Sousa,Masculino,907.284.615-01,53,08,HeadSet,3,250.0,750.0,75.0,Casa Grande de Goiás,MS,Brasil,2024-10-13,Credito
+315,Eduarda,Brito,Feminino,243.051.698-51,33,06,Teclado,3,200.0,600.0,60.0,Rezende,PB,Brasil,2024-08-12,Debito
+316,Yago,Macedo,Masculino,307.512.689-68,21,09,Cadeira Gamer,3,900.0,2700.0,270.0,Carvalho de da Paz,RS,Brasil,2024-05-04,Credito
+317,Francisco,da Cunha,Masculino,872.163.905-12,52,01,Notebook,2,3500.0,7000.0,700.0,da Rosa,PR,Brasil,2024-06-08,Especie
+318,Fernando,Fogaça,Masculino,701.943.628-50,60,05,Monitor,1,950.0,950.0,95.0,Sá de Rodrigues,AM,Brasil,2024-07-17,Especie
+319,Ana Cecília,Aparecida,Feminino,531.094.768-00,21,05,Monitor,1,950.0,950.0,95.0,Costela de Goiás,RS,Brasil,2024-02-06,Debito
+320,Valentina,da Costa,Feminino,265.079.438-00,48,06,Teclado,3,200.0,600.0,60.0,Ribeiro,AM,Brasil,2024-10-11,Credito
+321,Amanda,Aragão,Feminino,298.706.413-69,35,07,Mouse,3,80.0,240.0,24.0,Teixeira,MT,Brasil,2024-03-25,Especie
+322,Alexia,Viana,Feminino,813.490.267-78,41,02,Smartphone,1,2000.0,2000.0,200.0,Duarte,MT,Brasil,2024-05-29,PIX
+323,Milena,Casa Grande,Feminino,237.815.904-88,21,08,HeadSet,2,250.0,500.0,50.0,Santos da Prata,SE,Brasil,2024-07-20,Especie
+324,Emanuelly,da Mata,Feminino,957.186.324-64,39,02,Smartphone,1,2000.0,2000.0,200.0,Sampaio,PA,Brasil,2024-11-26,Credito
+325,Lara,Ferreira,Feminino,568.204.139-98,46,07,Mouse,1,80.0,80.0,8.0,Cardoso de Ribeiro,PA,Brasil,2024-10-08,PIX
+326,Mateus,Pinto,Masculino,914.850.267-76,18,07,Mouse,2,80.0,160.0,16.0,Cirino das Flores,MT,Brasil,2024-06-01,PIX
+327,Sofia,Cavalcanti,Feminino,034.981.275-60,29,08,HeadSet,1,250.0,250.0,25.0,Nascimento das Flores,AC,Brasil,2024-08-06,Especie
+328,Emanuel,Montenegro,Masculino,695.018.237-68,23,03,Tablet,3,3000.0,9000.0,900.0,Carvalho,RJ,Brasil,2024-10-06,Especie
+329,Calebe,da Rocha,Masculino,951.024.738-32,54,10,Suporte Monitor,2,150.0,300.0,30.0,Leão de Araújo,CE,Brasil,2024-03-02,PIX
+330,Vinícius,Sousa,Masculino,513.974.820-79,37,08,HeadSet,3,250.0,750.0,75.0,da Luz,RO,Brasil,2024-02-17,PIX
+331,Thales,Gomes,Masculino,186.523.497-46,23,10,Suporte Monitor,2,150.0,300.0,30.0,Fogaça,PR,Brasil,2024-12-23,Credito
+332,Anna Liz,Monteiro,Feminino,482.697.153-28,18,09,Cadeira Gamer,3,900.0,2700.0,270.0,da Mata de Moreira,DF,Brasil,2024-12-06,Credito
+333,Lorenzo,Casa Grande,Masculino,295.364.807-00,45,03,Tablet,2,3000.0,6000.0,600.0,Leão Paulista,PE,Brasil,2024-06-26,Debito
+334,Leonardo,Cassiano,Masculino,643.751.809-00,53,02,Smartphone,3,2000.0,6000.0,600.0,Duarte,GO,Brasil,2024-12-27,Debito
+335,Noah,Barbosa,Masculino,963.851.207-59,19,01,Notebook,2,3500.0,7000.0,700.0,Carvalho do Sul,TO,Brasil,2024-10-01,PIX
+336,Camila,Ribeiro,Feminino,346.715.980-00,47,02,Smartphone,3,2000.0,6000.0,600.0,Moura,RR,Brasil,2024-06-06,Credito
+337,Emanuella,Gonçalves,Feminino,190.547.368-01,49,09,Cadeira Gamer,3,900.0,2700.0,270.0,Rocha do Sul,RS,Brasil,2024-04-17,Especie
+338,João Felipe,Pastor,Masculino,314.297.568-37,59,09,Cadeira Gamer,2,900.0,1800.0,180.0,Casa Grande de da Costa,AC,Brasil,2024-09-08,Debito
+339,Sabrina,Santos,Feminino,130.294.567-06,45,07,Mouse,3,80.0,240.0,24.0,Abreu,PE,Brasil,2024-09-27,Debito
+340,Miguel,Vieira,Masculino,270.158.643-71,22,06,Teclado,2,200.0,400.0,40.0,Aragão,MG,Brasil,2024-10-14,Especie
+341,Eloah,Nascimento,Feminino,360.592.714-99,40,03,Tablet,2,3000.0,6000.0,600.0,da Cruz,MS,Brasil,2024-11-15,Debito
+342,Lorenzo,Vieira,Masculino,389.170.526-30,50,06,Teclado,3,200.0,600.0,60.0,Fernandes,RR,Brasil,2024-01-27,Especie
+343,Ravi Lucca,Pereira,Masculino,270.486.935-92,38,07,Mouse,3,80.0,240.0,24.0,Pimenta,GO,Brasil,2024-06-11,PIX
+344,Noah,da Conceição,Masculino,528.671.403-07,57,04,Impressora,1,800.0,800.0,80.0,Costela,AC,Brasil,2024-04-18,Especie
+345,Gustavo Henrique,Cavalcanti,Masculino,521.940.683-33,54,01,Notebook,2,3500.0,7000.0,700.0,Rios,SP,Brasil,2024-08-14,Credito
+346,Erick,Silva,Masculino,294.063.857-83,48,08,HeadSet,2,250.0,500.0,50.0,Souza Verde,PB,Brasil,2024-01-09,PIX
+347,João Lucas,Marques,Masculino,273.059.614-34,24,05,Monitor,1,950.0,950.0,95.0,Martins,SC,Brasil,2024-05-18,PIX
+348,João Miguel,Mendes,Masculino,734.208.561-80,27,02,Smartphone,2,2000.0,4000.0,400.0,Siqueira Grande,RJ,Brasil,2024-08-16,Credito
+349,Natália,Cavalcanti,Feminino,846.201.593-60,60,09,Cadeira Gamer,3,900.0,2700.0,270.0,Novaes de Goiás,AL,Brasil,2024-10-30,PIX
+350,Kamilly,Ribeiro,Feminino,128.639.570-40,25,07,Mouse,2,80.0,160.0,16.0,da Conceição,AM,Brasil,2024-01-16,Especie
+351,Gabrielly,Moraes,Feminino,423.657.908-10,37,01,Notebook,3,3500.0,10500.0,1050.0,Pacheco da Mata,RS,Brasil,2024-08-28,Especie
+352,Maria,Nogueira,Feminino,276.395.841-91,42,01,Notebook,2,3500.0,7000.0,700.0,Vieira,ES,Brasil,2024-09-11,Credito
+353,Ayla,Aragão,Feminino,495.173.862-73,55,09,Cadeira Gamer,3,900.0,2700.0,270.0,Mendonça,AC,Brasil,2024-09-15,PIX
+354,Levi,da Mata,Masculino,052.981.746-20,25,01,Notebook,1,3500.0,3500.0,350.0,Nascimento Alegre,MT,Brasil,2024-02-09,Debito
+355,João,Cassiano,Masculino,735.182.046-53,35,02,Smartphone,2,2000.0,4000.0,400.0,Melo do Sul,TO,Brasil,2024-04-28,Credito
+356,Ísis,Pinto,Feminino,071.586.942-67,39,03,Tablet,2,3000.0,6000.0,600.0,Alves de Albuquerque,AP,Brasil,2024-04-29,Credito
+357,Ana Clara,Gonçalves,Feminino,782.961.405-94,45,03,Tablet,3,3000.0,9000.0,900.0,Duarte de Ramos,PA,Brasil,2024-05-23,Debito
+358,Dante,Mendes,Masculino,076.431.859-48,55,06,Teclado,1,200.0,200.0,20.0,Cardoso,MA,Brasil,2024-07-24,Debito
+359,Gabriel,Viana,Masculino,038.471.625-35,32,03,Tablet,1,3000.0,3000.0,300.0,Novaes Grande,PI,Brasil,2024-10-24,Especie
+360,Eloá,da Cruz,Feminino,142.760.839-31,56,01,Notebook,3,3500.0,10500.0,1050.0,Aragão,RS,Brasil,2024-05-01,Debito
+361,Diego,Pastor,Masculino,367.098.124-13,59,04,Impressora,2,800.0,1600.0,160.0,Peixoto de Goiás,AM,Brasil,2024-09-28,Credito
+362,Isadora,Rezende,Feminino,523.697.108-02,24,03,Tablet,3,3000.0,9000.0,900.0,Teixeira das Flores,SE,Brasil,2024-05-29,Especie
+363,Enzo,Sousa,Masculino,087.314.965-39,58,08,HeadSet,1,250.0,250.0,25.0,Peixoto,SE,Brasil,2024-05-15,PIX
+364,José Pedro,Nunes,Masculino,438.702.956-00,31,09,Cadeira Gamer,3,900.0,2700.0,270.0,Fonseca de Goiás,RJ,Brasil,2024-02-15,PIX
+365,Giovanna,Sá,Feminino,483.951.206-05,33,05,Monitor,3,950.0,2850.0,285.0,Macedo do Oeste,RN,Brasil,2024-10-06,PIX
+366,Isabela,Farias,Feminino,190.734.256-70,58,10,Suporte Monitor,2,150.0,300.0,30.0,Nascimento do Sul,RO,Brasil,2024-09-10,Credito
+367,Ravi,Nunes,Masculino,927.643.815-73,39,09,Cadeira Gamer,2,900.0,1800.0,180.0,Cavalcanti do Campo,BA,Brasil,2024-03-12,Credito
+368,Maria Luiza,Aragão,Feminino,617.924.530-43,55,04,Impressora,3,800.0,2400.0,240.0,da Cruz de Caldeira,RN,Brasil,2024-02-14,Debito
+369,Luana,Costela,Feminino,635.124.089-15,22,08,HeadSet,2,250.0,500.0,50.0,Moraes,RS,Brasil,2024-05-16,Debito
+370,Aylla,Sá,Feminino,870.591.362-40,29,01,Notebook,3,3500.0,10500.0,1050.0,da Luz,PB,Brasil,2024-09-15,Credito
+371,Ana Beatriz,Costa,Feminino,983.726.150-12,42,01,Notebook,2,3500.0,7000.0,700.0,Caldeira,BA,Brasil,2024-10-06,Especie
+372,Caio,Câmara,Masculino,678.351.094-84,25,08,HeadSet,1,250.0,250.0,25.0,Barros,RO,Brasil,2024-06-14,Credito
+373,Ana Carolina,Pereira,Feminino,146.029.583-89,51,04,Impressora,1,800.0,800.0,80.0,Silveira das Flores,MA,Brasil,2024-03-17,Debito
+374,Heloisa,Silva,Feminino,789.056.324-83,46,03,Tablet,1,3000.0,3000.0,300.0,Cunha,RR,Brasil,2024-02-17,Credito
+375,Antonella,Gonçalves,Feminino,307.451.286-53,37,07,Mouse,2,80.0,160.0,16.0,Machado do Norte,MS,Brasil,2024-01-06,PIX
+376,Luiz Henrique,das Neves,Masculino,294.107.658-11,35,03,Tablet,1,3000.0,3000.0,300.0,Abreu,MS,Brasil,2024-09-22,Credito
+377,Samuel,Almeida,Masculino,358.196.402-33,25,02,Smartphone,2,2000.0,4000.0,400.0,Moraes,ES,Brasil,2024-12-25,Credito
+378,Valentim,Aparecida,Masculino,906.428.157-20,48,03,Tablet,1,3000.0,3000.0,300.0,Fogaça,GO,Brasil,2024-12-04,Especie
+379,Anthony Gabriel,Pires,Masculino,514.783.962-37,52,04,Impressora,2,800.0,1600.0,160.0,da Rosa,RJ,Brasil,2024-03-06,Debito
+380,Thomas,Costa,Masculino,189.503.672-03,19,05,Monitor,1,950.0,950.0,95.0,Sampaio,SP,Brasil,2024-07-19,Debito
+381,Ana Sophia,Correia,Feminino,081.357.924-41,25,07,Mouse,1,80.0,80.0,8.0,Silva de Goiás,BA,Brasil,2024-05-15,PIX
+382,Clara,Pastor,Feminino,617.294.358-82,44,10,Suporte Monitor,3,150.0,450.0,45.0,da Rocha Paulista,PI,Brasil,2024-09-02,PIX
+383,Miguel,da Conceição,Masculino,258.137.649-09,53,01,Notebook,2,3500.0,7000.0,700.0,Teixeira,GO,Brasil,2024-05-02,Debito
+384,Pietra,Costa,Feminino,398.675.140-84,26,10,Suporte Monitor,3,150.0,450.0,45.0,Cavalcante Paulista,AC,Brasil,2024-05-10,Debito
+385,Luara,Campos,Feminino,136.458.709-20,39,05,Monitor,1,950.0,950.0,95.0,Vieira da Mata,SC,Brasil,2024-09-06,Debito
+386,Luigi,Azevedo,Masculino,213.684.957-37,35,09,Cadeira Gamer,1,900.0,900.0,90.0,Garcia,AP,Brasil,2024-09-08,PIX
+387,Luana,Pereira,Feminino,465.719.280-94,36,08,HeadSet,1,250.0,250.0,25.0,Farias,PB,Brasil,2024-11-14,PIX
+388,Otávio,das Neves,Masculino,376.895.410-20,38,05,Monitor,3,950.0,2850.0,285.0,Pinto,SP,Brasil,2024-01-15,Especie
+389,Théo,Camargo,Masculino,238.796.410-13,40,07,Mouse,2,80.0,160.0,16.0,Macedo do Norte,RJ,Brasil,2024-02-02,Especie
+390,Ester,Monteiro,Feminino,130.247.958-04,56,10,Suporte Monitor,1,150.0,150.0,15.0,Viana,PR,Brasil,2024-01-11,PIX
+391,Cauê,Castro,Masculino,532.701.496-70,26,08,HeadSet,2,250.0,500.0,50.0,Nunes da Praia,SC,Brasil,2024-04-26,PIX
+392,Gustavo Henrique,Porto,Masculino,391.526.478-46,40,07,Mouse,2,80.0,160.0,16.0,Mendes,MG,Brasil,2024-07-27,PIX
+393,Juliana,Carvalho,Feminino,492.067.351-52,45,01,Notebook,2,3500.0,7000.0,700.0,Correia,AL,Brasil,2024-09-14,Credito
+394,Nicole,Nascimento,Feminino,156.473.289-46,19,10,Suporte Monitor,3,150.0,450.0,45.0,Araújo das Flores,RN,Brasil,2024-02-15,Debito
+395,Sofia,Leão,Feminino,453.618.290-05,38,01,Notebook,2,3500.0,7000.0,700.0,Fonseca,MT,Brasil,2024-12-05,Debito
+396,Anthony Gabriel,Machado,Masculino,016.894.572-01,55,06,Teclado,2,200.0,400.0,40.0,Guerra de Minas,RN,Brasil,2024-01-12,Especie
+397,Evelyn,Correia,Feminino,316.247.890-13,44,10,Suporte Monitor,2,150.0,300.0,30.0,Souza da Praia,PA,Brasil,2024-01-24,Especie
+398,Maria Flor,Câmara,Feminino,302.745.198-79,35,03,Tablet,2,3000.0,6000.0,600.0,Aragão do Oeste,SE,Brasil,2024-04-19,PIX
+399,Carolina,Mendonça,Feminino,579.813.402-41,48,05,Monitor,3,950.0,2850.0,285.0,Cassiano,SE,Brasil,2024-01-28,Debito
+400,Lorena,Lima,Feminino,475.028.163-80,55,07,Mouse,1,80.0,80.0,8.0,Lima,PR,Brasil,2024-02-19,Especie
+401,Ester,Pinto,Feminino,720.981.634-87,26,07,Mouse,2,80.0,160.0,16.0,Silveira,MT,Brasil,2024-09-25,Especie
+402,Kevin,Almeida,Masculino,720.548.916-49,19,06,Teclado,3,200.0,600.0,60.0,Almeida,PE,Brasil,2024-10-16,Credito
+403,Rael,Cassiano,Masculino,062.314.759-99,19,03,Tablet,3,3000.0,9000.0,900.0,Freitas,MS,Brasil,2024-02-04,Especie
+404,Matteo,Martins,Masculino,720.915.384-50,41,05,Monitor,1,950.0,950.0,95.0,Cirino,MS,Brasil,2024-06-26,Especie
+405,Otto,Pereira,Masculino,708.925.316-30,60,01,Notebook,1,3500.0,3500.0,350.0,Souza das Flores,GO,Brasil,2024-02-18,Debito
+406,Sarah,da Paz,Feminino,684.035.972-74,41,01,Notebook,3,3500.0,10500.0,1050.0,Ferreira,AL,Brasil,2024-03-01,PIX
+407,Rodrigo,Melo,Masculino,324.705.619-06,47,04,Impressora,2,800.0,1600.0,160.0,Nunes,AC,Brasil,2024-01-14,Especie
+408,Catarina,Sampaio,Feminino,032.548.167-90,60,10,Suporte Monitor,2,150.0,300.0,30.0,Porto de Novaes,MT,Brasil,2024-10-04,Credito
+409,Alexandre,Rios,Masculino,416.723.908-69,36,01,Notebook,3,3500.0,10500.0,1050.0,Sousa,AC,Brasil,2024-11-18,Especie
+410,Bella,Teixeira,Feminino,456.897.120-94,52,01,Notebook,3,3500.0,10500.0,1050.0,Vargas,MG,Brasil,2024-02-19,Especie
+411,José Miguel,Sampaio,Masculino,296.841.735-55,44,07,Mouse,1,80.0,80.0,8.0,Sampaio,PE,Brasil,2024-01-30,Debito
+412,Pedro,Pastor,Masculino,610.538.274-07,30,04,Impressora,3,800.0,2400.0,240.0,Caldeira do Norte,PB,Brasil,2024-12-09,Debito
+413,Maria Isis,Vargas,Feminino,845.076.123-90,60,08,HeadSet,3,250.0,750.0,75.0,Ramos,MA,Brasil,2024-12-06,Debito
+414,Ester,Freitas,Feminino,078.329.164-78,34,01,Notebook,2,3500.0,7000.0,700.0,Moura,MG,Brasil,2024-03-29,Credito
+415,Yuri,da Rosa,Masculino,850.274.316-35,56,02,Smartphone,2,2000.0,4000.0,400.0,Souza,MT,Brasil,2024-07-24,PIX
+416,João Vitor,Moura,Masculino,291.703.856-02,38,03,Tablet,3,3000.0,9000.0,900.0,Freitas do Sul,SE,Brasil,2024-04-30,Debito
+417,Alice,Lopes,Feminino,062.438.179-03,21,10,Suporte Monitor,1,150.0,150.0,15.0,Silva,SE,Brasil,2024-04-14,Debito
+418,Caroline,Alves,Feminino,729.458.163-00,36,06,Teclado,2,200.0,400.0,40.0,Abreu,TO,Brasil,2024-02-20,PIX
+419,Lorenzo,Pinto,Masculino,790.354.812-32,38,09,Cadeira Gamer,1,900.0,900.0,90.0,Moraes,DF,Brasil,2024-04-12,PIX
+420,Cecilia,Cassiano,Feminino,067.923.415-25,59,08,HeadSet,2,250.0,500.0,50.0,Azevedo,RR,Brasil,2024-04-19,Credito
+421,Ana Vitória,Cirino,Feminino,152.706.983-40,34,08,HeadSet,1,250.0,250.0,25.0,da Costa,AP,Brasil,2024-05-27,Debito
+422,Luan,das Neves,Masculino,701.843.652-44,39,09,Cadeira Gamer,2,900.0,1800.0,180.0,Cunha da Mata,PA,Brasil,2024-03-11,Credito
+423,Enrico,Ramos,Masculino,905.427.836-65,34,06,Teclado,2,200.0,400.0,40.0,Campos da Prata,GO,Brasil,2024-05-07,Credito
+424,Ryan,da Rocha,Masculino,754.916.280-85,52,10,Suporte Monitor,2,150.0,300.0,30.0,Leão,PI,Brasil,2024-10-12,Especie
+425,Henry Gabriel,Araújo,Masculino,102.649.758-20,53,03,Tablet,2,3000.0,6000.0,600.0,Moreira Paulista,PE,Brasil,2024-08-03,Especie
+426,Raul,Mendonça,Masculino,372.485.106-53,56,10,Suporte Monitor,3,150.0,450.0,45.0,Garcia,PE,Brasil,2024-12-19,Debito
+427,Juan,Sousa,Masculino,027.486.519-01,23,02,Smartphone,1,2000.0,2000.0,200.0,Jesus,BA,Brasil,2024-07-20,PIX
+428,Benjamim,Martins,Masculino,102.436.587-53,28,07,Mouse,2,80.0,160.0,16.0,Sousa,RR,Brasil,2024-04-30,Debito
+429,Olivia,da Luz,Feminino,903.728.546-56,32,02,Smartphone,1,2000.0,2000.0,200.0,Freitas,AP,Brasil,2024-01-24,Especie
+430,Beatriz,da Paz,Feminino,052.849.631-05,48,09,Cadeira Gamer,1,900.0,900.0,90.0,Guerra de Montenegro,AC,Brasil,2024-09-04,Especie
+431,Mathias,Costela,Masculino,278.436.915-37,41,01,Notebook,3,3500.0,10500.0,1050.0,Peixoto,GO,Brasil,2024-04-29,Especie
+432,Guilherme,Mendonça,Masculino,912.547.380-88,59,07,Mouse,2,80.0,160.0,16.0,Costela da Praia,CE,Brasil,2024-06-16,Especie
+433,Pedro,Cavalcante,Masculino,279.480.356-56,30,09,Cadeira Gamer,1,900.0,900.0,90.0,Cardoso do Galho,PI,Brasil,2024-11-30,PIX
+434,Isadora,da Cruz,Feminino,750.689.213-86,30,02,Smartphone,2,2000.0,4000.0,400.0,Vieira,TO,Brasil,2024-12-01,Credito
+435,Maria Fernanda,da Paz,Feminino,945.601.872-58,22,10,Suporte Monitor,3,150.0,450.0,45.0,Martins do Sul,CE,Brasil,2024-07-29,PIX
+436,João Miguel,Moraes,Masculino,879.025.641-76,20,10,Suporte Monitor,1,150.0,150.0,15.0,Andrade da Serra,MG,Brasil,2024-06-08,Credito
+437,Vinicius,Jesus,Masculino,053.298.617-21,33,05,Monitor,3,950.0,2850.0,285.0,da Luz do Amparo,AP,Brasil,2024-09-16,Credito
+438,Otávio,Brito,Masculino,605.279.418-67,45,03,Tablet,2,3000.0,6000.0,600.0,Sampaio,AL,Brasil,2024-07-12,PIX
+439,Thomas,Macedo,Masculino,498.732.560-83,55,06,Teclado,3,200.0,600.0,60.0,Fernandes,BA,Brasil,2024-06-30,PIX
+440,Mariah,Fernandes,Feminino,671.895.234-64,37,04,Impressora,3,800.0,2400.0,240.0,Castro Alegre,SC,Brasil,2024-01-15,Especie
+441,Juliana,da Cruz,Feminino,975.362.041-16,42,03,Tablet,3,3000.0,9000.0,900.0,Pinto Alegre,BA,Brasil,2024-12-14,Especie
+442,Henrique,Rios,Masculino,021.675.934-06,57,02,Smartphone,1,2000.0,2000.0,200.0,Câmara de da Paz,BA,Brasil,2024-12-21,Especie
+443,Mathias,Melo,Masculino,439.261.705-06,51,09,Cadeira Gamer,1,900.0,900.0,90.0,Jesus Alegre,GO,Brasil,2024-12-03,Especie
+444,Maitê,da Rosa,Feminino,310.489.257-14,57,07,Mouse,1,80.0,80.0,8.0,Cavalcante,MG,Brasil,2024-04-24,Credito
+445,Caleb,Farias,Masculino,695.012.783-95,39,05,Monitor,1,950.0,950.0,95.0,Araújo,SC,Brasil,2024-07-20,PIX
+446,Kaique,Aragão,Masculino,857.421.903-79,19,05,Monitor,2,950.0,1900.0,190.0,Abreu,TO,Brasil,2024-06-16,PIX
+447,Luana,Gomes,Feminino,123.697.058-68,21,03,Tablet,2,3000.0,6000.0,600.0,Cavalcanti,SP,Brasil,2024-03-18,Especie
+448,Isabela,Peixoto,Feminino,860.495.731-66,48,05,Monitor,1,950.0,950.0,95.0,Oliveira,MA,Brasil,2024-07-14,PIX
+449,Dante,da Cruz,Masculino,163.420.875-71,32,10,Suporte Monitor,2,150.0,300.0,30.0,Ribeiro,MA,Brasil,2024-04-16,Credito
+450,Pedro Lucas,Campos,Masculino,419.362.805-15,19,06,Teclado,3,200.0,600.0,60.0,Leão de Cavalcanti,PB,Brasil,2024-04-07,Especie
+451,Mirella,Vargas,Feminino,627.159.384-46,36,03,Tablet,2,3000.0,6000.0,600.0,Siqueira do Campo,BA,Brasil,2024-08-04,PIX
+452,Davi Lucas,Lima,Masculino,163.792.405-43,33,07,Mouse,1,80.0,80.0,8.0,Duarte de Sá,GO,Brasil,2024-01-09,Debito
+453,Theo,Brito,Masculino,260.435.798-47,54,01,Notebook,1,3500.0,3500.0,350.0,Lima,AL,Brasil,2024-04-04,Debito
+454,Francisco,Cunha,Masculino,571.092.836-40,20,10,Suporte Monitor,3,150.0,450.0,45.0,Nogueira do Galho,PA,Brasil,2024-05-28,Debito
+455,Juan,Nogueira,Masculino,186.392.574-00,51,06,Teclado,3,200.0,600.0,60.0,Cavalcante,TO,Brasil,2024-07-19,Especie
+456,Marcos Vinicius,Ribeiro,Masculino,507.496.318-48,26,06,Teclado,1,200.0,200.0,20.0,Nogueira,BA,Brasil,2024-07-08,Debito
+457,Emanuel,Casa Grande,Masculino,569.270.814-02,21,03,Tablet,3,3000.0,9000.0,900.0,Viana de Duarte,RS,Brasil,2024-01-30,PIX
+458,Maria Sophia,Pereira,Feminino,408.369.572-29,23,10,Suporte Monitor,3,150.0,450.0,45.0,Câmara,MT,Brasil,2024-12-16,Debito
+459,Pedro Henrique,Machado,Masculino,378.960.412-78,31,10,Suporte Monitor,1,150.0,150.0,15.0,Carvalho Verde,MA,Brasil,2024-01-25,Credito
+460,Daniel,Marques,Masculino,435.817.092-79,47,10,Suporte Monitor,1,150.0,150.0,15.0,Albuquerque do Sul,MT,Brasil,2024-01-24,Debito
+461,Pedro Lucas,Carvalho,Masculino,103.584.726-44,35,07,Mouse,3,80.0,240.0,24.0,Cunha,AM,Brasil,2024-08-24,Especie
+462,Manuela,Vieira,Feminino,681.023.795-02,39,01,Notebook,2,3500.0,7000.0,700.0,Castro da Prata,CE,Brasil,2024-06-17,PIX
+463,Enzo,Mendes,Masculino,210.895.463-51,26,06,Teclado,1,200.0,200.0,20.0,Novaes de Araújo,RR,Brasil,2024-10-10,Debito
+464,Liz,Cavalcante,Feminino,594.716.803-01,33,01,Notebook,2,3500.0,7000.0,700.0,Macedo de Novais,MS,Brasil,2024-10-01,Credito
+465,Maria Isis,Rocha,Feminino,765.824.109-11,18,06,Teclado,2,200.0,400.0,40.0,Aragão,MG,Brasil,2024-08-22,Debito
+466,Bryan,Sampaio,Masculino,901.736.824-13,46,04,Impressora,1,800.0,800.0,80.0,Novais,RN,Brasil,2024-11-17,Especie
+467,Augusto,Pimenta,Masculino,739.265.841-73,56,06,Teclado,2,200.0,400.0,40.0,Gomes do Campo,PA,Brasil,2024-05-15,PIX
+468,Isabel,Sá,Feminino,862.473.150-07,34,01,Notebook,3,3500.0,10500.0,1050.0,Sales,MA,Brasil,2024-02-11,Especie
+469,Francisco,Pimenta,Masculino,763.204.859-65,18,07,Mouse,2,80.0,160.0,16.0,da Mota,PB,Brasil,2024-08-24,Especie
+470,Ravi,Carvalho,Masculino,162.590.473-80,54,06,Teclado,1,200.0,200.0,20.0,Sales,AC,Brasil,2024-01-21,Especie
+471,Valentim,Pires,Masculino,204.389.567-29,59,09,Cadeira Gamer,2,900.0,1800.0,180.0,da Cunha do Amparo,AL,Brasil,2024-09-08,Debito
+472,Zoe,Freitas,Feminino,278.160.439-96,38,03,Tablet,3,3000.0,9000.0,900.0,Azevedo do Oeste,PI,Brasil,2024-09-26,Debito
+473,Isabelly,da Conceição,Feminino,078.249.135-97,38,02,Smartphone,2,2000.0,4000.0,400.0,Novaes das Flores,TO,Brasil,2024-04-28,Debito
+474,Liam,Gomes,Masculino,276.193.480-69,29,08,HeadSet,3,250.0,750.0,75.0,Borges da Prata,RJ,Brasil,2024-10-23,Credito
+475,Pietro,Rezende,Masculino,823.960.175-86,41,05,Monitor,1,950.0,950.0,95.0,Alves,MA,Brasil,2024-12-02,Debito
+476,Anna Liz,Andrade,Feminino,912.640.587-30,57,02,Smartphone,3,2000.0,6000.0,600.0,Cardoso,TO,Brasil,2024-04-07,Especie
+477,Leandro,Sales,Masculino,207.645.398-92,53,03,Tablet,1,3000.0,3000.0,300.0,Pereira de Campos,ES,Brasil,2024-03-12,Debito
+478,João Felipe,Alves,Masculino,567.839.420-74,19,04,Impressora,1,800.0,800.0,80.0,Novais do Campo,PE,Brasil,2024-08-20,Debito
+479,Larissa,Sá,Feminino,071.584.269-20,60,08,HeadSet,2,250.0,500.0,50.0,Vasconcelos da Mata,AP,Brasil,2024-01-27,Especie
+480,Luna,Rezende,Feminino,714.289.350-88,38,02,Smartphone,2,2000.0,4000.0,400.0,da Luz,MS,Brasil,2024-09-01,Especie
+481,Catarina,Alves,Feminino,035.726.814-80,50,01,Notebook,1,3500.0,3500.0,350.0,Costela da Praia,SP,Brasil,2024-05-20,Credito
+482,Samuel,Monteiro,Masculino,139.658.024-70,19,07,Mouse,1,80.0,80.0,8.0,Pinto,BA,Brasil,2024-07-15,Debito
+483,Pietra,da Rosa,Feminino,165.389.247-19,46,06,Teclado,3,200.0,600.0,60.0,Marques de Goiás,PR,Brasil,2024-05-01,Especie
+484,Luna,Rios,Feminino,798.102.564-85,36,10,Suporte Monitor,3,150.0,450.0,45.0,Almeida do Campo,AM,Brasil,2024-07-08,Debito
+485,Heloisa,Guerra,Feminino,410.735.692-25,32,01,Notebook,3,3500.0,10500.0,1050.0,Novais Verde,BA,Brasil,2024-05-22,Especie
+486,Alice,Macedo,Feminino,091.734.586-00,56,06,Teclado,2,200.0,400.0,40.0,Novaes,RJ,Brasil,2024-07-27,Debito
+487,Melissa,Nogueira,Feminino,019.846.527-02,47,06,Teclado,2,200.0,400.0,40.0,Silva do Norte,ES,Brasil,2024-12-05,Debito
+488,João Miguel,Vasconcelos,Masculino,054.283.916-42,38,04,Impressora,1,800.0,800.0,80.0,da Conceição de Azevedo,AC,Brasil,2024-10-01,Credito
+489,Caroline,Novais,Feminino,548.617.230-35,47,06,Teclado,3,200.0,600.0,60.0,da Paz,CE,Brasil,2024-05-04,Especie
+490,Ana Vitória,Souza,Feminino,832.510.769-30,37,08,HeadSet,3,250.0,750.0,75.0,Sampaio,PB,Brasil,2024-07-17,Credito
+491,Bruna,Monteiro,Feminino,795.864.102-85,44,04,Impressora,3,800.0,2400.0,240.0,Cavalcante de Minas,AM,Brasil,2024-01-10,Debito
+492,Emanuelly,Pereira,Feminino,487.906.123-96,55,10,Suporte Monitor,2,150.0,300.0,30.0,Nascimento,GO,Brasil,2024-10-01,PIX
+493,Henry Gabriel,Monteiro,Masculino,087.146.325-35,36,04,Impressora,3,800.0,2400.0,240.0,da Mata dos Dourados,SP,Brasil,2024-10-20,Debito
+494,Josué,Araújo,Masculino,792.456.830-10,24,02,Smartphone,2,2000.0,4000.0,400.0,Cavalcanti Paulista,PB,Brasil,2024-04-21,Debito
+495,Liz,Sampaio,Feminino,894.360.512-98,31,08,HeadSet,3,250.0,750.0,75.0,Cavalcante,BA,Brasil,2024-11-11,PIX
+496,Luiz Henrique,Aragão,Masculino,758.169.340-66,50,08,HeadSet,2,250.0,500.0,50.0,Porto do Oeste,AP,Brasil,2024-03-02,Especie
+497,Luana,Marques,Feminino,856.137.204-44,18,05,Monitor,2,950.0,1900.0,190.0,da Cunha Verde,SE,Brasil,2024-09-09,Debito
+498,Agatha,Macedo,Feminino,491.603.725-16,53,09,Cadeira Gamer,3,900.0,2700.0,270.0,Dias da Praia,PR,Brasil,2024-07-03,Credito
+499,Apollo,Moreira,Masculino,056.942.871-85,52,04,Impressora,2,800.0,1600.0,160.0,Pereira,RN,Brasil,2024-01-09,Credito
+500,Davi Luiz,Rodrigues,Masculino,983.501.264-42,47,09,Cadeira Gamer,3,900.0,2700.0,270.0,Araújo do Norte,RO,Brasil,2024-02-23,Especie
+501,Zoe,Farias,Feminino,097.438.512-32,33,07,Mouse,3,80.0,240.0,24.0,Lopes do Norte,GO,Brasil,2024-04-29,Credito
+502,João Pedro,da Cruz,Masculino,465.328.179-37,25,06,Teclado,3,200.0,600.0,60.0,Sampaio,RJ,Brasil,2024-09-05,PIX
+503,Carolina,Fernandes,Feminino,893.746.251-64,52,08,HeadSet,3,250.0,750.0,75.0,Guerra do Norte,PR,Brasil,2024-12-21,Credito
+504,Eduardo,Cunha,Masculino,806.259.743-10,55,06,Teclado,3,200.0,600.0,60.0,Rodrigues,MA,Brasil,2024-12-02,Debito
+505,Yasmin,Correia,Feminino,571.386.429-46,42,01,Notebook,1,3500.0,3500.0,350.0,Jesus,AP,Brasil,2024-06-05,Debito
+506,Enzo,Leão,Masculino,496.385.072-92,23,01,Notebook,3,3500.0,10500.0,1050.0,Andrade de Araújo,CE,Brasil,2024-06-04,Debito
+507,Brayan,Albuquerque,Masculino,258.396.147-00,42,04,Impressora,3,800.0,2400.0,240.0,Vieira do Amparo,PA,Brasil,2024-07-18,Credito
+508,Caroline,Abreu,Feminino,580.461.937-39,42,05,Monitor,2,950.0,1900.0,190.0,Farias do Oeste,PE,Brasil,2024-05-24,PIX
+509,Daniel,Melo,Masculino,783.549.216-46,46,03,Tablet,3,3000.0,9000.0,900.0,Martins de Alves,RR,Brasil,2024-03-10,Debito
+510,Isabelly,Montenegro,Feminino,075.823.149-05,60,08,HeadSet,1,250.0,250.0,25.0,da Luz,MG,Brasil,2024-12-29,Credito
+511,Gabriela,Novais,Feminino,975.634.102-52,22,04,Impressora,3,800.0,2400.0,240.0,Cavalcante,AL,Brasil,2024-10-10,Especie
+512,Maria Julia,Casa Grande,Feminino,108.294.753-97,37,04,Impressora,2,800.0,1600.0,160.0,Pimenta do Amparo,PI,Brasil,2024-01-26,Credito
+513,Pedro Lucas,Andrade,Masculino,148.025.697-85,41,06,Teclado,1,200.0,200.0,20.0,Pacheco Paulista,RR,Brasil,2024-09-20,Credito
+514,Olivia,Duarte,Feminino,641.897.230-96,34,02,Smartphone,3,2000.0,6000.0,600.0,Cavalcante,PR,Brasil,2024-03-24,Debito
+515,Beatriz,Rezende,Feminino,723.194.605-43,30,06,Teclado,3,200.0,600.0,60.0,Moraes,RS,Brasil,2024-04-18,Debito
+516,João,Lima,Masculino,078.941.236-50,40,09,Cadeira Gamer,1,900.0,900.0,90.0,Albuquerque de Martins,SP,Brasil,2024-12-23,Credito
+517,Brenda,Fernandes,Feminino,469.835.210-05,42,10,Suporte Monitor,3,150.0,450.0,45.0,Freitas,PI,Brasil,2024-03-14,Credito
+518,Bianca,Leão,Feminino,947.683.210-03,19,02,Smartphone,3,2000.0,6000.0,600.0,Mendonça do Campo,DF,Brasil,2024-03-27,PIX
+519,Gabriela,Ribeiro,Feminino,790.458.612-67,23,03,Tablet,3,3000.0,9000.0,900.0,Pacheco da Serra,DF,Brasil,2024-10-11,Credito
+520,Milena,Rocha,Feminino,321.085.647-80,55,09,Cadeira Gamer,3,900.0,2700.0,270.0,Sá de Casa Grande,BA,Brasil,2024-04-24,PIX
+521,Hellena,da Luz,Feminino,506.192.374-06,27,07,Mouse,3,80.0,240.0,24.0,Sales de Castro,MG,Brasil,2024-05-16,Credito
+522,Paulo,Souza,Masculino,431.268.905-98,52,03,Tablet,2,3000.0,6000.0,600.0,Vargas,RR,Brasil,2024-06-12,PIX
+523,Maria Liz,Fogaça,Feminino,256.387.149-28,19,01,Notebook,1,3500.0,3500.0,350.0,Dias de Vasconcelos,SP,Brasil,2024-08-03,Especie
+524,Ágatha,Mendes,Feminino,859.326.710-68,33,04,Impressora,3,800.0,2400.0,240.0,da Paz,PB,Brasil,2024-06-14,PIX
+525,Pedro Henrique,Rodrigues,Masculino,176.835.294-19,45,04,Impressora,1,800.0,800.0,80.0,das Neves,SC,Brasil,2024-03-16,PIX
+526,Benicio,Moura,Masculino,624.387.015-44,20,02,Smartphone,1,2000.0,2000.0,200.0,Alves,DF,Brasil,2024-01-07,Especie
+527,Ágatha,Novaes,Feminino,257.093.418-60,57,01,Notebook,1,3500.0,3500.0,350.0,Aragão,TO,Brasil,2024-07-31,Credito
+528,Allana,da Conceição,Feminino,862.743.095-00,52,07,Mouse,1,80.0,80.0,8.0,da Costa,SE,Brasil,2024-11-21,Debito
+529,Ana Clara,Novais,Feminino,231.984.760-03,41,10,Suporte Monitor,1,150.0,150.0,15.0,Lima,MG,Brasil,2024-08-12,Credito
+530,Oliver,Cavalcanti,Masculino,982.563.741-28,29,09,Cadeira Gamer,3,900.0,2700.0,270.0,Fogaça do Amparo,CE,Brasil,2024-03-19,Credito
+531,Murilo,Vasconcelos,Masculino,597.063.418-20,59,01,Notebook,2,3500.0,7000.0,700.0,Silva de Minas,GO,Brasil,2024-02-14,PIX
+532,Milena,Vieira,Feminino,856.392.104-51,34,01,Notebook,1,3500.0,3500.0,350.0,Brito,RS,Brasil,2024-11-04,Debito
+533,Liz,da Rosa,Feminino,183.796.254-55,39,10,Suporte Monitor,3,150.0,450.0,45.0,Vasconcelos do Oeste,PR,Brasil,2024-10-27,PIX
+534,Danilo,da Rocha,Masculino,047.356.192-16,57,07,Mouse,1,80.0,80.0,8.0,Teixeira,CE,Brasil,2024-02-22,PIX
+535,Cauê,Cassiano,Masculino,721.540.386-62,56,10,Suporte Monitor,1,150.0,150.0,15.0,Carvalho de da Mata,ES,Brasil,2024-09-01,PIX
+536,Bella,da Mota,Feminino,832.965.174-64,48,10,Suporte Monitor,3,150.0,450.0,45.0,Costela da Praia,TO,Brasil,2024-10-13,Credito
+537,Léo,da Rosa,Masculino,461.087.392-31,52,05,Monitor,2,950.0,1900.0,190.0,Oliveira do Oeste,PR,Brasil,2024-07-26,Debito
+538,Théo,da Luz,Masculino,478.069.132-03,25,06,Teclado,3,200.0,600.0,60.0,Macedo de Minas,CE,Brasil,2024-07-15,Especie
+539,Antony,Duarte,Masculino,136.789.205-86,38,05,Monitor,2,950.0,1900.0,190.0,Sousa Paulista,RO,Brasil,2024-12-12,Credito
+540,Ravy,Duarte,Masculino,953.428.716-46,53,07,Mouse,2,80.0,160.0,16.0,Pastor,SE,Brasil,2024-07-01,Especie
+541,Bruna,Pires,Feminino,976.132.480-03,27,01,Notebook,1,3500.0,3500.0,350.0,Correia,MA,Brasil,2024-04-26,Credito
+542,Caio,Pereira,Masculino,314.782.690-22,50,04,Impressora,3,800.0,2400.0,240.0,Santos do Oeste,PB,Brasil,2024-10-30,PIX
+543,Ryan,Farias,Masculino,310.476.928-13,23,05,Monitor,2,950.0,1900.0,190.0,Teixeira da Prata,MS,Brasil,2024-01-13,Especie
+544,Nicolas,Silveira,Masculino,786.290.431-13,43,06,Teclado,3,200.0,600.0,60.0,Pastor do Sul,AL,Brasil,2024-08-05,PIX
+545,Marcelo,Fogaça,Masculino,162.740.539-99,40,03,Tablet,3,3000.0,9000.0,900.0,Rezende,AL,Brasil,2024-12-10,Credito
+546,João Gabriel,Rezende,Masculino,275.493.681-55,44,04,Impressora,1,800.0,800.0,80.0,Fernandes,RJ,Brasil,2024-12-10,PIX
+547,Gabrielly,Martins,Feminino,065.843.729-10,54,02,Smartphone,2,2000.0,4000.0,400.0,Carvalho,RN,Brasil,2024-09-04,Debito
+548,Rebeca,da Costa,Feminino,609.271.438-87,36,01,Notebook,2,3500.0,7000.0,700.0,da Luz da Prata,TO,Brasil,2024-08-22,Especie
+549,Cecilia,da Rosa,Feminino,276.930.548-47,52,02,Smartphone,2,2000.0,4000.0,400.0,Almeida,PA,Brasil,2024-09-06,Especie
+550,Davi Lucca,Marques,Masculino,628.971.054-02,43,06,Teclado,2,200.0,400.0,40.0,Albuquerque Paulista,DF,Brasil,2024-03-26,Credito
+551,Ayla,da Mota,Feminino,725.819.436-37,31,05,Monitor,2,950.0,1900.0,190.0,Jesus,ES,Brasil,2024-06-08,Credito
+552,José Pedro,Pires,Masculino,143.672.508-90,58,05,Monitor,3,950.0,2850.0,285.0,Rocha Alegre,RR,Brasil,2024-07-03,Credito
+553,Maria Isis,Ribeiro,Feminino,607.319.584-20,60,09,Cadeira Gamer,2,900.0,1800.0,180.0,da Cunha,RR,Brasil,2024-11-02,Especie
+554,Benício,da Conceição,Masculino,827.134.065-44,50,05,Monitor,3,950.0,2850.0,285.0,Rodrigues,AL,Brasil,2024-09-28,Debito
+555,Benício,Vargas,Masculino,403.892.765-29,27,09,Cadeira Gamer,3,900.0,2700.0,270.0,Borges do Oeste,MS,Brasil,2024-12-11,PIX
+556,Lucca,Cavalcanti,Masculino,257.830.416-53,54,06,Teclado,2,200.0,400.0,40.0,Cassiano,BA,Brasil,2024-07-07,Credito
+557,Anna Liz,Almeida,Feminino,853.719.206-68,39,08,HeadSet,3,250.0,750.0,75.0,Andrade,RJ,Brasil,2024-04-26,Especie
+558,Yuri,da Mota,Masculino,680.543.197-20,55,01,Notebook,3,3500.0,10500.0,1050.0,Guerra,AP,Brasil,2024-01-20,Debito
+559,Pedro Lucas,Câmara,Masculino,147.598.206-20,21,09,Cadeira Gamer,3,900.0,2700.0,270.0,da Rosa do Amparo,PB,Brasil,2024-12-13,PIX
+560,Alana,das Neves,Feminino,706.529.138-30,36,08,HeadSet,2,250.0,500.0,50.0,Vasconcelos de da Conceição,PR,Brasil,2024-04-19,PIX
+561,Liam,Moreira,Masculino,064.537.291-99,27,03,Tablet,1,3000.0,3000.0,300.0,Pinto,GO,Brasil,2024-10-15,PIX
+562,Caleb,Farias,Masculino,093.265.178-02,28,10,Suporte Monitor,2,150.0,300.0,30.0,Porto da Mata,MG,Brasil,2024-04-25,Credito
+563,Renan,Sales,Masculino,023.458.679-65,25,08,HeadSet,1,250.0,250.0,25.0,Rezende,MS,Brasil,2024-08-12,Credito
+564,Luiz Otávio,Pires,Masculino,259.436.801-60,21,06,Teclado,1,200.0,200.0,20.0,das Neves,RO,Brasil,2024-12-27,Debito
+565,Mirella,da Costa,Feminino,960.178.324-50,27,08,HeadSet,3,250.0,750.0,75.0,da Cunha,PA,Brasil,2024-11-18,PIX
+566,Enrico,Rodrigues,Masculino,802.471.563-53,34,04,Impressora,1,800.0,800.0,80.0,Correia,SP,Brasil,2024-02-16,Credito
+567,Maria Flor,Cassiano,Feminino,160.243.579-07,49,05,Monitor,3,950.0,2850.0,285.0,da Conceição,AC,Brasil,2024-10-26,Debito
+568,Luiz Otávio,Sá,Masculino,835.479.201-32,34,04,Impressora,3,800.0,2400.0,240.0,da Paz da Mata,MG,Brasil,2024-10-15,Debito
+569,Luiz Otávio,Vasconcelos,Masculino,123.647.985-82,35,06,Teclado,3,200.0,600.0,60.0,Freitas Verde,GO,Brasil,2024-10-15,PIX
+570,Vitor,Pires,Masculino,190.678.523-68,33,06,Teclado,3,200.0,600.0,60.0,Peixoto de Goiás,AC,Brasil,2024-07-24,PIX
+571,Cecilia,Farias,Feminino,308.914.576-66,33,10,Suporte Monitor,1,150.0,150.0,15.0,da Rosa,DF,Brasil,2024-03-17,Debito
+572,Diogo,Rezende,Masculino,876.092.153-68,32,01,Notebook,3,3500.0,10500.0,1050.0,Lima,MG,Brasil,2024-10-20,Credito
+573,Stella,Castro,Feminino,640.912.387-69,55,05,Monitor,2,950.0,1900.0,190.0,Cunha de Silveira,PB,Brasil,2024-03-10,PIX
+574,Sara,Nascimento,Feminino,106.874.523-17,43,09,Cadeira Gamer,1,900.0,900.0,90.0,Cardoso,PR,Brasil,2024-02-04,PIX
+575,Ana Julia,Barbosa,Feminino,428.951.306-98,42,09,Cadeira Gamer,3,900.0,2700.0,270.0,Garcia da Serra,AM,Brasil,2024-06-14,Credito
+576,Emanuella,Melo,Feminino,172.954.680-30,20,10,Suporte Monitor,2,150.0,300.0,30.0,Pinto,AM,Brasil,2024-09-25,PIX
+577,Francisco,Freitas,Masculino,098.536.427-00,51,10,Suporte Monitor,2,150.0,300.0,30.0,Leão de Câmara,MT,Brasil,2024-05-08,PIX
+578,Brayan,Caldeira,Masculino,192.360.748-04,43,10,Suporte Monitor,3,150.0,450.0,45.0,Montenegro,SP,Brasil,2024-02-25,Especie
+579,Maria Liz,Siqueira,Feminino,350.186.429-98,60,05,Monitor,1,950.0,950.0,95.0,Silva,MS,Brasil,2024-01-13,Debito
+580,Nicolas,Silva,Masculino,530.982.617-30,40,05,Monitor,2,950.0,1900.0,190.0,Leão da Serra,SC,Brasil,2024-11-18,Credito
+581,Brenda,Sampaio,Feminino,189.075.346-75,44,06,Teclado,3,200.0,600.0,60.0,Brito da Serra,RS,Brasil,2024-05-13,Especie
+582,Allana,da Mata,Feminino,146.503.297-52,60,04,Impressora,1,800.0,800.0,80.0,da Mata da Prata,PR,Brasil,2024-01-06,PIX
+583,Rhavi,Albuquerque,Masculino,057.823.149-23,52,03,Tablet,3,3000.0,9000.0,900.0,Andrade,RO,Brasil,2024-01-31,Credito
+584,Luiz Miguel,Cunha,Masculino,643.971.820-78,24,01,Notebook,3,3500.0,10500.0,1050.0,Pastor,PE,Brasil,2024-02-14,PIX
+585,Maria Luiza,Lima,Feminino,540.862.397-10,46,05,Monitor,2,950.0,1900.0,190.0,Azevedo,DF,Brasil,2024-08-04,Especie
+586,João,Silva,Masculino,401.638.572-53,55,06,Teclado,1,200.0,200.0,20.0,Montenegro dos Dourados,MG,Brasil,2024-06-21,Credito
+587,Mariana,Rodrigues,Feminino,143.798.256-55,31,10,Suporte Monitor,3,150.0,450.0,45.0,Câmara,GO,Brasil,2024-05-25,Debito
+588,Dom,Almeida,Masculino,485.170.932-32,30,10,Suporte Monitor,3,150.0,450.0,45.0,Borges,CE,Brasil,2024-02-11,PIX
+589,Cauê,Correia,Masculino,765.940.231-52,32,06,Teclado,3,200.0,600.0,60.0,Guerra,MG,Brasil,2024-09-18,Credito
+590,Isabela,Sales,Feminino,340.569.278-47,34,02,Smartphone,2,2000.0,4000.0,400.0,Moura do Sul,PE,Brasil,2024-03-27,Credito
+591,Hadassa,da Rocha,Feminino,501.789.236-21,58,08,HeadSet,1,250.0,250.0,25.0,Mendonça do Galho,MT,Brasil,2024-07-03,PIX
+592,Alícia,Farias,Feminino,652.937.840-56,20,08,HeadSet,1,250.0,250.0,25.0,Novais,MA,Brasil,2024-05-03,Especie
+593,Isabela,Pinto,Feminino,095.372.861-77,37,01,Notebook,2,3500.0,7000.0,700.0,da Rosa da Prata,MA,Brasil,2024-07-03,Especie
+594,Sabrina,Lima,Feminino,175.480.296-67,29,06,Teclado,3,200.0,600.0,60.0,Montenegro de Minas,RR,Brasil,2024-05-16,Debito
+595,João Lucas,da Cruz,Masculino,592.143.687-91,24,08,HeadSet,1,250.0,250.0,25.0,da Costa,RO,Brasil,2024-08-07,PIX
+596,José Pedro,Costa,Masculino,049.531.782-97,30,10,Suporte Monitor,2,150.0,300.0,30.0,Moraes de Carvalho,SC,Brasil,2024-05-14,PIX
+597,Rodrigo,Costela,Masculino,048.975.213-60,41,08,HeadSet,3,250.0,750.0,75.0,Rocha de Borges,SE,Brasil,2024-02-13,Debito
+598,Melina,Ramos,Feminino,213.479.865-37,55,02,Smartphone,1,2000.0,2000.0,200.0,Cardoso,MS,Brasil,2024-03-28,Especie
+599,Lavínia,Porto,Feminino,840.976.351-66,25,08,HeadSet,3,250.0,750.0,75.0,Fonseca dos Dourados,RN,Brasil,2024-11-11,Credito
+600,Benjamin,Macedo,Masculino,549.618.073-20,45,02,Smartphone,1,2000.0,2000.0,200.0,Pereira,RO,Brasil,2024-08-26,PIX
+601,Letícia,Ribeiro,Feminino,980.256.473-74,50,09,Cadeira Gamer,2,900.0,1800.0,180.0,Rezende,TO,Brasil,2024-11-29,Credito
+602,Sara,Moraes,Feminino,039.427.168-87,58,03,Tablet,1,3000.0,3000.0,300.0,Sousa,ES,Brasil,2024-10-23,Debito
+603,Letícia,Aragão,Feminino,241.709.356-16,55,02,Smartphone,3,2000.0,6000.0,600.0,Sá,PB,Brasil,2024-03-13,PIX
+604,Ravi Lucca,Ribeiro,Masculino,820.497.156-76,41,10,Suporte Monitor,3,150.0,450.0,45.0,Câmara do Campo,SC,Brasil,2024-06-13,PIX
+605,Leonardo,da Rocha,Masculino,308.294.675-56,22,04,Impressora,3,800.0,2400.0,240.0,Cassiano,TO,Brasil,2024-01-01,Debito
+606,Caio,Lima,Masculino,869.741.503-93,21,04,Impressora,3,800.0,2400.0,240.0,Campos do Campo,GO,Brasil,2024-03-11,Especie
+607,Vitor,da Cunha,Masculino,531.284.906-51,34,06,Teclado,1,200.0,200.0,20.0,Ferreira das Flores,AP,Brasil,2024-04-25,Credito
+608,Gabriela,Borges,Feminino,576.130.498-84,40,10,Suporte Monitor,1,150.0,150.0,15.0,Dias,MG,Brasil,2024-03-15,Especie
+609,Maria Luísa,Albuquerque,Feminino,652.893.407-00,52,06,Teclado,2,200.0,400.0,40.0,Moreira do Oeste,MT,Brasil,2024-10-08,PIX
+610,Valentina,Costela,Feminino,612.548.307-07,52,10,Suporte Monitor,3,150.0,450.0,45.0,Rios,AL,Brasil,2024-02-20,PIX
+611,Lívia,Porto,Feminino,586.421.370-53,24,02,Smartphone,3,2000.0,6000.0,600.0,Costela,AM,Brasil,2024-07-17,PIX
+612,Ryan,Araújo,Masculino,591.864.237-46,26,01,Notebook,2,3500.0,7000.0,700.0,Ribeiro do Oeste,PI,Brasil,2024-07-29,Especie
+613,Bento,Alves,Masculino,561.382.479-73,35,09,Cadeira Gamer,3,900.0,2700.0,270.0,Silveira,TO,Brasil,2024-01-18,Debito
+614,Maya,Nascimento,Feminino,701.286.495-85,57,06,Teclado,2,200.0,400.0,40.0,Aparecida Verde,MA,Brasil,2024-08-07,PIX
+615,Lara,Nogueira,Feminino,426.501.783-53,35,06,Teclado,2,200.0,400.0,40.0,Albuquerque,SE,Brasil,2024-09-08,PIX
+616,Luísa,Cardoso,Feminino,607.415.823-17,43,06,Teclado,3,200.0,600.0,60.0,Montenegro de da Luz,ES,Brasil,2024-10-20,Credito
+617,Rodrigo,Martins,Masculino,684.503.291-24,53,10,Suporte Monitor,1,150.0,150.0,15.0,Guerra da Serra,SC,Brasil,2024-03-06,Credito
+618,Maria Liz,Carvalho,Feminino,632.984.157-82,40,10,Suporte Monitor,2,150.0,300.0,30.0,Casa Grande,DF,Brasil,2024-01-23,PIX
+619,Benício,Montenegro,Masculino,412.697.805-49,51,10,Suporte Monitor,1,150.0,150.0,15.0,Ramos do Amparo,ES,Brasil,2024-11-21,Especie
+620,Apollo,Lopes,Masculino,528.469.301-98,38,07,Mouse,3,80.0,240.0,24.0,Santos Verde,GO,Brasil,2024-02-19,Especie
+621,Ana Lívia,Silva,Feminino,980.136.724-50,56,05,Monitor,1,950.0,950.0,95.0,Fogaça Verde,ES,Brasil,2024-01-28,Credito
+622,Raquel,Guerra,Feminino,097.143.258-97,24,04,Impressora,3,800.0,2400.0,240.0,Oliveira,TO,Brasil,2024-08-10,Especie
+623,Rael,Melo,Masculino,142.596.708-67,18,10,Suporte Monitor,2,150.0,300.0,30.0,Lima de Vieira,BA,Brasil,2024-08-02,Especie
+624,Danilo,Moreira,Masculino,368.479.210-13,59,01,Notebook,3,3500.0,10500.0,1050.0,Silva do Galho,BA,Brasil,2024-11-07,PIX
+625,Otto,da Conceição,Masculino,825.960.341-15,54,10,Suporte Monitor,3,150.0,450.0,45.0,da Cruz,PA,Brasil,2024-08-23,Debito
+626,Ryan,Costela,Masculino,463.812.759-28,18,07,Mouse,3,80.0,240.0,24.0,da Mota das Pedras,BA,Brasil,2024-02-07,Especie
+627,Olivia,Rocha,Feminino,216.489.507-01,60,06,Teclado,2,200.0,400.0,40.0,Moraes de Fernandes,PE,Brasil,2024-01-21,Especie
+628,Davi,Nogueira,Masculino,837.042.651-44,18,05,Monitor,1,950.0,950.0,95.0,Pires,SP,Brasil,2024-06-20,Especie
+629,Marcela,Carvalho,Feminino,271.836.094-13,48,02,Smartphone,1,2000.0,2000.0,200.0,Porto do Campo,ES,Brasil,2024-05-04,Credito
+630,Caroline,Moraes,Feminino,608.741.293-03,27,09,Cadeira Gamer,1,900.0,900.0,90.0,da Cruz,RJ,Brasil,2024-01-03,Credito
+631,Alana,Sales,Feminino,905.476.231-43,22,06,Teclado,3,200.0,600.0,60.0,Dias,AL,Brasil,2024-09-01,PIX
+632,Ravy,Pinto,Masculino,910.276.584-58,42,04,Impressora,3,800.0,2400.0,240.0,Farias de Pimenta,MT,Brasil,2024-11-16,Debito
+633,Samuel,Moreira,Masculino,718.392.504-88,60,10,Suporte Monitor,1,150.0,150.0,15.0,Vasconcelos,SP,Brasil,2024-02-24,Especie
+634,Yago,Ramos,Masculino,890.461.253-51,20,07,Mouse,2,80.0,160.0,16.0,Brito,MG,Brasil,2024-01-18,Credito
+635,Manuella,Mendes,Feminino,603.521.984-51,44,03,Tablet,1,3000.0,3000.0,300.0,Ramos da Praia,GO,Brasil,2024-12-29,Especie
+636,Otávio,Leão,Masculino,735.609.248-47,56,02,Smartphone,2,2000.0,4000.0,400.0,Pinto,RJ,Brasil,2024-06-25,PIX
+637,Elisa,Peixoto,Feminino,791.204.356-06,43,07,Mouse,2,80.0,160.0,16.0,Rezende de Monteiro,SE,Brasil,2024-04-27,Especie
+638,Ana Lívia,Fernandes,Feminino,895.017.326-30,35,06,Teclado,1,200.0,200.0,20.0,Lima,PA,Brasil,2024-03-16,Credito
+639,João Guilherme,Pacheco,Masculino,638.179.204-31,35,05,Monitor,2,950.0,1900.0,190.0,Oliveira de Minas,MT,Brasil,2024-04-21,Especie
+640,Gabriel,Mendonça,Masculino,083.679.142-87,29,04,Impressora,3,800.0,2400.0,240.0,Vargas,SE,Brasil,2024-03-22,Credito
+641,Emanuella,Fonseca,Feminino,291.306.784-04,40,03,Tablet,3,3000.0,9000.0,900.0,Caldeira do Sul,MS,Brasil,2024-12-30,Debito
+642,Raquel,Silva,Feminino,356.179.824-19,43,01,Notebook,1,3500.0,3500.0,350.0,Lima,RS,Brasil,2024-11-17,Debito
+643,Lorenzo,Lima,Masculino,528.340.679-29,39,03,Tablet,3,3000.0,9000.0,900.0,Nunes,RS,Brasil,2024-01-09,Credito
+644,Bruno,das Neves,Masculino,184.296.037-78,23,10,Suporte Monitor,3,150.0,450.0,45.0,Aragão do Sul,GO,Brasil,2024-09-17,Credito
+645,Isabel,Ramos,Feminino,527.103.968-40,32,04,Impressora,3,800.0,2400.0,240.0,Gomes,AC,Brasil,2024-05-20,PIX
+646,Catarina,Novaes,Feminino,754.621.098-49,20,02,Smartphone,3,2000.0,6000.0,600.0,Cunha Verde,RO,Brasil,2024-02-11,Especie
+647,Sabrina,Jesus,Feminino,716.583.204-17,60,04,Impressora,1,800.0,800.0,80.0,Silva de Rios,SE,Brasil,2024-07-12,Credito
+648,José Miguel,Vargas,Masculino,325.869.104-51,38,10,Suporte Monitor,2,150.0,300.0,30.0,Azevedo,DF,Brasil,2024-09-28,Debito
+649,Gael,Marques,Masculino,691.783.502-12,42,03,Tablet,2,3000.0,6000.0,600.0,Abreu,CE,Brasil,2024-05-15,Credito
+650,Emilly,Guerra,Feminino,973.481.052-97,18,10,Suporte Monitor,2,150.0,300.0,30.0,Campos,BA,Brasil,2024-12-29,PIX
+651,Augusto,Silva,Masculino,802.951.476-01,24,09,Cadeira Gamer,2,900.0,1800.0,180.0,Pimenta do Oeste,AM,Brasil,2024-08-10,Especie
+652,Ana Vitória,Vasconcelos,Feminino,802.769.153-21,45,08,HeadSet,2,250.0,500.0,50.0,Vargas da Prata,PR,Brasil,2024-12-20,Debito
+653,Maria Julia,Novaes,Feminino,195.642.738-46,43,08,HeadSet,3,250.0,750.0,75.0,Montenegro,PA,Brasil,2024-10-28,PIX
+654,João Felipe,da Cruz,Masculino,067.852.941-85,21,06,Teclado,3,200.0,600.0,60.0,Aparecida do Amparo,SP,Brasil,2024-05-22,PIX
+655,Isis,Leão,Feminino,452.163.709-43,27,07,Mouse,3,80.0,240.0,24.0,Rezende do Sul,MA,Brasil,2024-08-17,Credito
+656,Manuella,das Neves,Feminino,415.026.873-80,42,06,Teclado,3,200.0,600.0,60.0,Vieira Grande,CE,Brasil,2024-09-11,Especie
+657,Antonella,Camargo,Feminino,068.751.932-21,32,05,Monitor,3,950.0,2850.0,285.0,da Rocha,PA,Brasil,2024-02-03,Debito
+658,Laura,Cirino,Feminino,683.452.710-90,59,09,Cadeira Gamer,3,900.0,2700.0,270.0,Porto,SE,Brasil,2024-07-12,Especie
+659,Luiz Fernando,Costa,Masculino,024.156.397-61,32,08,HeadSet,1,250.0,250.0,25.0,Barbosa,BA,Brasil,2024-09-05,Debito
+660,Diogo,Souza,Masculino,912.483.567-64,21,09,Cadeira Gamer,3,900.0,2700.0,270.0,Caldeira,AC,Brasil,2024-10-15,PIX
+661,Marcos Vinicius,Viana,Masculino,086.724.135-71,49,05,Monitor,1,950.0,950.0,95.0,Dias,AC,Brasil,2024-09-19,Credito
+662,Luiz Gustavo,Cirino,Masculino,968.271.043-03,45,10,Suporte Monitor,1,150.0,150.0,15.0,Moraes da Prata,AP,Brasil,2024-12-28,Debito
+663,Luiz Henrique,Porto,Masculino,158.609.732-68,43,04,Impressora,1,800.0,800.0,80.0,Sousa das Pedras,TO,Brasil,2024-09-05,PIX
+664,Clarice,Lima,Feminino,632.107.948-04,51,05,Monitor,3,950.0,2850.0,285.0,Mendes de Fogaça,AP,Brasil,2024-08-26,Credito
+665,Pedro Henrique,Costa,Masculino,108.496.523-24,23,06,Teclado,2,200.0,400.0,40.0,Pinto das Pedras,MS,Brasil,2024-09-12,Credito
+666,Maria Fernanda,Porto,Feminino,625.713.089-12,45,10,Suporte Monitor,2,150.0,300.0,30.0,Silva,RS,Brasil,2024-03-29,PIX
+667,Emanuel,Garcia,Masculino,746.082.319-87,53,02,Smartphone,2,2000.0,4000.0,400.0,Santos do Campo,SC,Brasil,2024-08-08,Credito
+668,Lucas Gabriel,Nascimento,Masculino,528.340.671-71,49,05,Monitor,2,950.0,1900.0,190.0,Martins,PA,Brasil,2024-07-04,Especie
+669,Luiz Felipe,Monteiro,Masculino,491.267.083-96,51,02,Smartphone,2,2000.0,4000.0,400.0,Oliveira do Campo,SE,Brasil,2024-02-13,Especie
+670,Noah,Nunes,Masculino,410.387.926-22,36,05,Monitor,2,950.0,1900.0,190.0,Nascimento,SP,Brasil,2024-05-25,PIX
+671,Maria Vitória,Araújo,Feminino,438.765.290-00,46,03,Tablet,1,3000.0,3000.0,300.0,da Luz,RN,Brasil,2024-05-24,Credito
+672,Ágatha,Marques,Feminino,147.859.026-20,18,01,Notebook,1,3500.0,3500.0,350.0,Novaes do Amparo,MA,Brasil,2024-01-11,Especie
+673,Isabel,Caldeira,Feminino,148.270.936-87,56,07,Mouse,1,80.0,80.0,8.0,Vasconcelos Grande,PE,Brasil,2024-07-04,PIX
+674,Marcela,Duarte,Feminino,401.735.962-07,34,01,Notebook,3,3500.0,10500.0,1050.0,Aparecida Grande,PB,Brasil,2024-04-07,Especie
+675,Joana,Mendes,Feminino,965.214.708-76,59,10,Suporte Monitor,1,150.0,150.0,15.0,Azevedo,PI,Brasil,2024-08-20,PIX
+676,Eloah,Moura,Feminino,862.301.459-60,51,01,Notebook,1,3500.0,3500.0,350.0,Sampaio Alegre,RR,Brasil,2024-05-17,Especie
+677,Ana,Garcia,Feminino,294.631.507-06,35,08,HeadSet,3,250.0,750.0,75.0,Pacheco de Macedo,RR,Brasil,2024-08-26,Credito
+678,Maria Laura,Mendes,Feminino,469.271.580-49,52,02,Smartphone,2,2000.0,4000.0,400.0,da Cruz,SP,Brasil,2024-10-09,PIX
+679,Benicio,Lopes,Masculino,312.780.596-95,57,07,Mouse,3,80.0,240.0,24.0,Costa de Silveira,RN,Brasil,2024-09-17,Credito
+680,Léo,Campos,Masculino,637.954.802-56,53,10,Suporte Monitor,3,150.0,450.0,45.0,Pinto,MG,Brasil,2024-08-13,Especie
+681,Theodoro,das Neves,Masculino,950.283.647-29,20,10,Suporte Monitor,1,150.0,150.0,15.0,Pacheco de Nunes,AP,Brasil,2024-09-06,PIX
+682,Pedro Miguel,Macedo,Masculino,982.315.607-77,42,04,Impressora,2,800.0,1600.0,160.0,Montenegro do Sul,PB,Brasil,2024-05-19,Especie
+683,Julia,Barros,Feminino,054.613.298-70,38,02,Smartphone,3,2000.0,6000.0,600.0,Caldeira,TO,Brasil,2024-06-28,PIX
+684,Sabrina,da Conceição,Feminino,687.342.915-55,21,10,Suporte Monitor,1,150.0,150.0,15.0,da Cruz de Porto,BA,Brasil,2024-09-06,PIX
+685,Vitor Hugo,Fernandes,Masculino,964.325.187-09,33,02,Smartphone,2,2000.0,4000.0,400.0,Montenegro,PE,Brasil,2024-10-28,Credito
+686,Thiago,Cardoso,Masculino,495.302.867-83,54,02,Smartphone,1,2000.0,2000.0,200.0,Moraes,ES,Brasil,2024-05-28,Credito
+687,Júlia,Costa,Feminino,489.670.531-93,37,04,Impressora,1,800.0,800.0,80.0,Albuquerque,SC,Brasil,2024-05-20,Debito
+688,Liam,Brito,Masculino,768.915.230-95,20,05,Monitor,1,950.0,950.0,95.0,Moreira Paulista,TO,Brasil,2024-09-17,PIX
+689,Vitória,da Conceição,Feminino,803.145.672-08,29,07,Mouse,1,80.0,80.0,8.0,Sampaio da Praia,CE,Brasil,2024-02-23,PIX
+690,Aylla,Dias,Feminino,047.368.152-80,45,10,Suporte Monitor,1,150.0,150.0,15.0,Pires de Minas,SE,Brasil,2024-12-30,Especie
+691,Rafael,da Rosa,Masculino,905.148.326-06,36,01,Notebook,3,3500.0,10500.0,1050.0,Cardoso,RN,Brasil,2024-01-26,PIX
+692,Igor,Castro,Masculino,380.945.267-00,19,02,Smartphone,3,2000.0,6000.0,600.0,Machado,PR,Brasil,2024-04-24,Debito
+693,Jade,Nogueira,Feminino,791.045.268-30,18,07,Mouse,1,80.0,80.0,8.0,Machado,TO,Brasil,2024-10-06,Especie
+694,Bernardo,Sá,Masculino,954.062.187-94,25,03,Tablet,2,3000.0,6000.0,600.0,Jesus,RJ,Brasil,2024-01-19,Debito
+695,Manuella,Cassiano,Feminino,895.147.603-01,29,10,Suporte Monitor,3,150.0,450.0,45.0,Carvalho do Amparo,MS,Brasil,2024-08-22,Especie
+696,Nicole,Leão,Feminino,752.430.968-65,33,06,Teclado,1,200.0,200.0,20.0,Aragão,PR,Brasil,2024-10-28,Especie
+697,Theodoro,Pimenta,Masculino,178.540.632-90,28,03,Tablet,1,3000.0,3000.0,300.0,Souza,PA,Brasil,2024-12-08,Especie
+698,Lucca,Fogaça,Masculino,684.975.102-67,52,10,Suporte Monitor,3,150.0,450.0,45.0,Macedo Alegre,RO,Brasil,2024-07-04,Especie
+699,Eloah,Farias,Feminino,395.027.864-83,48,06,Teclado,3,200.0,600.0,60.0,Teixeira,BA,Brasil,2024-01-06,Debito
+700,Nathan,Melo,Masculino,765.023.194-16,35,02,Smartphone,1,2000.0,2000.0,200.0,Ramos,MS,Brasil,2024-09-22,Credito
+701,Milena,Rezende,Feminino,316.290.874-40,34,07,Mouse,3,80.0,240.0,24.0,Moura,AP,Brasil,2024-05-30,Credito
+702,Otávio,Machado,Masculino,703.295.614-99,26,01,Notebook,2,3500.0,7000.0,700.0,Araújo,BA,Brasil,2024-07-13,Credito
+703,Aurora,Mendonça,Feminino,049.283.567-56,46,10,Suporte Monitor,3,150.0,450.0,45.0,da Conceição da Serra,PI,Brasil,2024-12-01,Especie
+704,Theodoro,Barros,Masculino,315.872.469-37,41,08,HeadSet,3,250.0,750.0,75.0,Pacheco,SE,Brasil,2024-02-28,Debito
+705,Letícia,Nogueira,Feminino,619.053.842-89,33,08,HeadSet,3,250.0,750.0,75.0,Barros,GO,Brasil,2024-06-14,Especie
+706,Daniela,Duarte,Feminino,093.268.417-31,23,03,Tablet,1,3000.0,3000.0,300.0,Cunha do Sul,AP,Brasil,2024-07-31,Debito
+707,Rodrigo,Barros,Masculino,931.642.087-31,49,02,Smartphone,1,2000.0,2000.0,200.0,Fogaça de Pires,PR,Brasil,2024-11-17,Debito
+708,Erick,Barros,Masculino,918.672.430-40,42,01,Notebook,3,3500.0,10500.0,1050.0,Novaes de Azevedo,BA,Brasil,2024-11-06,Credito
+709,Léo,Andrade,Masculino,574.036.129-06,24,09,Cadeira Gamer,1,900.0,900.0,90.0,Vasconcelos,PA,Brasil,2024-06-20,PIX
+710,Sophie,da Rosa,Feminino,609.875.124-20,39,09,Cadeira Gamer,2,900.0,1800.0,180.0,Sampaio,RN,Brasil,2024-05-12,Especie
+711,Emilly,Peixoto,Feminino,805.461.732-17,55,01,Notebook,1,3500.0,3500.0,350.0,Costa,AP,Brasil,2024-11-23,Credito
+712,Melina,Cirino,Feminino,934.016.285-42,55,04,Impressora,1,800.0,800.0,80.0,Lima,AP,Brasil,2024-06-24,Credito
+713,Benjamin,Barbosa,Masculino,612.850.739-59,39,03,Tablet,1,3000.0,3000.0,300.0,Dias,RO,Brasil,2024-01-07,Credito
+714,Heloisa,Vieira,Feminino,803.127.569-68,42,10,Suporte Monitor,3,150.0,450.0,45.0,da Cunha,AL,Brasil,2024-04-02,Credito
+715,Luiz Otávio,Sousa,Masculino,856.372.910-12,21,10,Suporte Monitor,3,150.0,450.0,45.0,Moraes de Minas,RR,Brasil,2024-10-23,Credito
+716,Beatriz,Freitas,Feminino,924.138.765-37,41,10,Suporte Monitor,1,150.0,150.0,15.0,da Mota do Sul,MG,Brasil,2024-02-20,Debito
+717,Anna Liz,Andrade,Feminino,329.685.174-73,48,01,Notebook,3,3500.0,10500.0,1050.0,Souza de Guerra,MG,Brasil,2024-08-10,Credito
+718,Alexia,Silva,Feminino,413.785.026-71,20,03,Tablet,3,3000.0,9000.0,900.0,Rocha,PI,Brasil,2024-12-24,Credito
+719,Josué,Barbosa,Masculino,480.932.176-22,53,02,Smartphone,3,2000.0,6000.0,600.0,Fonseca,SP,Brasil,2024-08-18,Credito
+720,Yasmin,Viana,Feminino,584.273.910-05,21,03,Tablet,1,3000.0,3000.0,300.0,Montenegro,SC,Brasil,2024-03-05,Especie
+721,Kevin,Caldeira,Masculino,893.764.051-10,32,10,Suporte Monitor,1,150.0,150.0,15.0,Cunha da Serra,GO,Brasil,2024-12-29,Credito
+722,Liz,Nascimento,Feminino,617.092.845-01,37,09,Cadeira Gamer,2,900.0,1800.0,180.0,Rezende,PI,Brasil,2024-01-25,Credito
+723,Benício,da Mota,Masculino,750.649.823-56,50,06,Teclado,3,200.0,600.0,60.0,Marques,GO,Brasil,2024-03-28,Especie
+724,Vitor,Borges,Masculino,582.391.064-98,28,05,Monitor,3,950.0,2850.0,285.0,Campos,PB,Brasil,2024-11-25,Especie
+725,Luiz Otávio,Leão,Masculino,379.258.601-03,46,07,Mouse,1,80.0,80.0,8.0,da Rocha de Almeida,RO,Brasil,2024-05-15,PIX
+726,Luiz Miguel,Sales,Masculino,256.089.731-86,44,04,Impressora,3,800.0,2400.0,240.0,Castro,ES,Brasil,2024-08-29,PIX
+727,Mariah,Moura,Feminino,950.248.173-97,23,02,Smartphone,2,2000.0,4000.0,400.0,Aragão,RO,Brasil,2024-08-24,PIX
+728,Yago,Moraes,Masculino,786.329.451-73,36,02,Smartphone,3,2000.0,6000.0,600.0,Carvalho,MT,Brasil,2024-11-16,Credito
+729,Maysa,Siqueira,Feminino,079.632.548-00,28,02,Smartphone,2,2000.0,4000.0,400.0,Vasconcelos de Souza,SP,Brasil,2024-09-18,Credito
+730,Bruna,Pimenta,Feminino,584.607.239-92,43,04,Impressora,1,800.0,800.0,80.0,Guerra Alegre,PI,Brasil,2024-10-03,Credito
+731,Yago,Souza,Masculino,018.754.329-14,59,01,Notebook,3,3500.0,10500.0,1050.0,Monteiro Grande,SC,Brasil,2024-05-04,Especie
+732,Anna Liz,Sá,Feminino,978.236.540-83,58,04,Impressora,1,800.0,800.0,80.0,Correia,PE,Brasil,2024-06-25,PIX
+733,Anna Liz,Castro,Feminino,152.908.734-14,50,06,Teclado,1,200.0,200.0,20.0,Martins,DF,Brasil,2024-01-24,Credito
+734,Augusto,Cardoso,Masculino,560.479.321-34,21,05,Monitor,1,950.0,950.0,95.0,Teixeira da Mata,TO,Brasil,2024-01-02,Debito
+735,Carlos Eduardo,Guerra,Masculino,837.429.106-04,28,10,Suporte Monitor,3,150.0,450.0,45.0,Cunha,PE,Brasil,2024-03-04,PIX
+736,Ana Júlia,Campos,Feminino,214.890.653-42,49,02,Smartphone,1,2000.0,2000.0,200.0,Souza de Vargas,PR,Brasil,2024-07-24,Especie
+737,Yan,Ramos,Masculino,832.057.649-00,44,03,Tablet,3,3000.0,9000.0,900.0,Abreu da Prata,GO,Brasil,2024-05-25,PIX
+738,Rodrigo,Vargas,Masculino,640.189.752-01,50,05,Monitor,3,950.0,2850.0,285.0,Montenegro da Mata,BA,Brasil,2024-05-17,Especie
+739,Maria Júlia,Novaes,Feminino,613.479.280-22,53,05,Monitor,1,950.0,950.0,95.0,Fernandes,MT,Brasil,2024-04-05,Especie
+740,Luiz Gustavo,Barros,Masculino,972.063.418-96,24,10,Suporte Monitor,1,150.0,150.0,15.0,Sá Paulista,MG,Brasil,2024-09-15,Credito
+741,Isadora,Garcia,Feminino,125.396.048-89,40,03,Tablet,1,3000.0,3000.0,300.0,Sousa,RJ,Brasil,2024-02-09,PIX
+742,Leandro,Casa Grande,Masculino,897.523.061-95,35,04,Impressora,2,800.0,1600.0,160.0,Costela do Campo,CE,Brasil,2024-01-27,Especie
+743,Vicente,Rios,Masculino,816.752.409-49,26,09,Cadeira Gamer,1,900.0,900.0,90.0,Almeida,MA,Brasil,2024-03-19,Debito
+744,Luísa,Guerra,Feminino,039.764.581-39,39,02,Smartphone,1,2000.0,2000.0,200.0,da Cunha,MA,Brasil,2024-09-22,PIX
+745,Renan,Novaes,Masculino,906.381.724-03,23,04,Impressora,2,800.0,1600.0,160.0,Rezende do Sul,RO,Brasil,2024-02-09,Debito
+746,Samuel,da Mata,Masculino,143.509.728-97,42,02,Smartphone,2,2000.0,4000.0,400.0,Melo da Praia,TO,Brasil,2024-06-18,Credito
+747,Liam,Mendonça,Masculino,075.283.916-03,51,06,Teclado,2,200.0,400.0,40.0,Garcia,CE,Brasil,2024-06-22,PIX
+748,Gabrielly,Mendonça,Feminino,045.376.821-08,39,06,Teclado,2,200.0,400.0,40.0,Rodrigues da Serra,MA,Brasil,2024-09-15,Debito
+749,Cauê,Novais,Masculino,682.971.435-46,26,08,HeadSet,1,250.0,250.0,25.0,Rocha,MA,Brasil,2024-02-27,Especie
+750,Leandro,Gonçalves,Masculino,670.513.824-62,30,03,Tablet,3,3000.0,9000.0,900.0,Mendonça das Pedras,SE,Brasil,2024-02-08,Credito
+751,Ravi,Cirino,Masculino,504.983.172-50,30,09,Cadeira Gamer,2,900.0,1800.0,180.0,Machado de Sousa,MT,Brasil,2024-11-20,Debito
+752,Heloísa,Duarte,Feminino,234.960.158-70,23,10,Suporte Monitor,1,150.0,150.0,15.0,Oliveira de Farias,RJ,Brasil,2024-05-29,Credito
+753,Breno,Caldeira,Masculino,428.507.139-88,60,10,Suporte Monitor,2,150.0,300.0,30.0,Vargas de Goiás,CE,Brasil,2024-07-10,Credito
+754,Bruna,Borges,Feminino,417.390.628-50,57,05,Monitor,3,950.0,2850.0,285.0,das Neves,MG,Brasil,2024-03-08,Especie
+755,Maria Sophia,Marques,Feminino,142.308.965-06,19,01,Notebook,1,3500.0,3500.0,350.0,Novaes,PE,Brasil,2024-07-29,Especie
+756,Eduarda,Dias,Feminino,285.761.094-76,36,10,Suporte Monitor,2,150.0,300.0,30.0,Casa Grande,RO,Brasil,2024-06-14,Debito
+757,Manuela,Sales,Feminino,983.152.704-60,32,01,Notebook,1,3500.0,3500.0,350.0,Correia de Moura,GO,Brasil,2024-08-29,PIX
+758,Isaque,Fonseca,Masculino,926.407.153-99,49,03,Tablet,3,3000.0,9000.0,900.0,Machado do Oeste,PE,Brasil,2024-11-29,Credito
+759,José Pedro,Caldeira,Masculino,174.683.952-09,36,01,Notebook,2,3500.0,7000.0,700.0,Lopes do Norte,AC,Brasil,2024-12-22,Debito
+760,Alana,Moraes,Feminino,350.981.267-03,42,09,Cadeira Gamer,3,900.0,2700.0,270.0,Lopes,MS,Brasil,2024-07-26,Credito
+761,Kamilly,Martins,Feminino,897.645.203-83,49,07,Mouse,2,80.0,160.0,16.0,Rocha de Cassiano,SP,Brasil,2024-10-10,Debito
+762,Evelyn,da Costa,Feminino,196.743.825-00,33,06,Teclado,2,200.0,400.0,40.0,Carvalho de Siqueira,MA,Brasil,2024-12-15,Especie
+763,Isaque,Santos,Masculino,075.183.264-26,47,05,Monitor,2,950.0,1900.0,190.0,Aparecida Grande,MT,Brasil,2024-07-05,Credito
+764,Bento,Pires,Masculino,397.526.081-59,55,05,Monitor,3,950.0,2850.0,285.0,Sá,DF,Brasil,2024-11-18,PIX
+765,Yan,Ramos,Masculino,312.908.754-05,47,02,Smartphone,2,2000.0,4000.0,400.0,Martins Paulista,RS,Brasil,2024-03-08,PIX
+766,Emanuelly,Alves,Feminino,257.910.643-06,18,01,Notebook,3,3500.0,10500.0,1050.0,Sá,SP,Brasil,2024-08-24,PIX
+767,Luara,Gomes,Feminino,049.357.268-65,32,02,Smartphone,1,2000.0,2000.0,200.0,Machado,AL,Brasil,2024-01-28,Credito
+768,Isadora,Vargas,Feminino,913.257.806-77,31,07,Mouse,1,80.0,80.0,8.0,Souza da Prata,SC,Brasil,2024-01-08,Especie
+769,Eloah,Lopes,Feminino,097.846.351-00,31,08,HeadSet,1,250.0,250.0,25.0,Porto do Galho,SP,Brasil,2024-09-04,Especie
+770,Ana Liz,Vieira,Feminino,946.238.015-51,18,01,Notebook,2,3500.0,7000.0,700.0,Brito,PB,Brasil,2024-12-23,PIX
+771,Breno,da Paz,Masculino,750.163.928-03,26,05,Monitor,2,950.0,1900.0,190.0,Souza da Prata,MT,Brasil,2024-02-25,Especie
+772,Cauê,Azevedo,Masculino,706.814.593-01,42,04,Impressora,3,800.0,2400.0,240.0,Sampaio do Galho,SE,Brasil,2024-06-17,Credito
+773,Benjamin,Martins,Masculino,496.015.287-76,47,06,Teclado,2,200.0,400.0,40.0,Cassiano,RS,Brasil,2024-09-17,Credito
+774,Henry Gabriel,Novaes,Masculino,187.365.920-21,51,07,Mouse,2,80.0,160.0,16.0,Porto,RJ,Brasil,2024-03-08,Credito
+775,Isis,Duarte,Feminino,823.410.576-08,18,04,Impressora,1,800.0,800.0,80.0,Pinto,MG,Brasil,2024-10-05,Especie
+776,Milena,Ribeiro,Feminino,592.678.013-68,29,03,Tablet,2,3000.0,6000.0,600.0,Cavalcanti,PA,Brasil,2024-02-28,Debito
+777,Yuri,Guerra,Masculino,425.608.197-67,50,02,Smartphone,3,2000.0,6000.0,600.0,da Mata,AM,Brasil,2024-03-18,PIX
+778,Felipe,Cavalcante,Masculino,781.056.493-57,22,07,Mouse,3,80.0,240.0,24.0,Cassiano do Campo,PB,Brasil,2024-06-18,Credito
+779,Igor,Andrade,Masculino,026.419.385-70,35,08,HeadSet,3,250.0,750.0,75.0,Camargo da Mata,RS,Brasil,2024-05-26,Especie
+780,Henry,da Mota,Masculino,409.827.536-83,41,09,Cadeira Gamer,2,900.0,1800.0,180.0,Castro,ES,Brasil,2024-04-25,PIX
+781,Davi Miguel,da Rosa,Masculino,825.306.149-89,21,10,Suporte Monitor,1,150.0,150.0,15.0,Azevedo das Flores,AL,Brasil,2024-01-29,Debito
+782,Rhavi,Albuquerque,Masculino,914.067.325-16,49,03,Tablet,1,3000.0,3000.0,300.0,Mendonça,MT,Brasil,2024-05-29,Especie
+783,Luiz Felipe,Ramos,Masculino,586.142.793-37,21,04,Impressora,2,800.0,1600.0,160.0,da Rosa da Serra,RJ,Brasil,2024-01-03,Debito
+784,Zoe,da Cruz,Feminino,857.936.420-56,41,10,Suporte Monitor,2,150.0,300.0,30.0,Pires,AM,Brasil,2024-04-29,Debito
+785,Dom,Castro,Masculino,145.806.273-26,43,10,Suporte Monitor,3,150.0,450.0,45.0,Lopes,SE,Brasil,2024-02-07,Credito
+786,Bárbara,Novaes,Feminino,437.182.095-60,32,02,Smartphone,1,2000.0,2000.0,200.0,Gomes,PR,Brasil,2024-06-10,Credito
+787,Ana Lívia,Duarte,Feminino,153.278.906-86,47,04,Impressora,1,800.0,800.0,80.0,Cassiano,AC,Brasil,2024-08-31,Credito
+788,Felipe,Ribeiro,Masculino,169.308.472-40,51,10,Suporte Monitor,2,150.0,300.0,30.0,Rodrigues,RN,Brasil,2024-10-11,PIX
+789,Arthur Miguel,Freitas,Masculino,780.391.524-88,34,03,Tablet,3,3000.0,9000.0,900.0,Martins Alegre,RR,Brasil,2024-03-31,Debito
+790,Luiz Otávio,Leão,Masculino,593.104.827-88,30,02,Smartphone,3,2000.0,6000.0,600.0,Aragão de Souza,AP,Brasil,2024-01-08,Credito
+791,Marcos Vinicius,Gonçalves,Masculino,836.972.014-50,52,05,Monitor,2,950.0,1900.0,190.0,Lima do Sul,RS,Brasil,2024-07-13,Credito
+792,Catarina,Silveira,Feminino,690.518.724-02,31,01,Notebook,2,3500.0,7000.0,700.0,Porto da Mata,AM,Brasil,2024-06-04,Especie
+793,Ravi,Casa Grande,Masculino,162.489.570-02,51,03,Tablet,3,3000.0,9000.0,900.0,Monteiro,PA,Brasil,2024-01-26,Debito
+794,Maria Luiza,Mendonça,Feminino,978.351.062-21,38,10,Suporte Monitor,1,150.0,150.0,15.0,Garcia,MG,Brasil,2024-04-19,PIX
+795,Pedro Lucas,Sales,Masculino,145.730.928-97,25,10,Suporte Monitor,1,150.0,150.0,15.0,da Paz,AM,Brasil,2024-09-25,Credito
+796,João Gabriel,Mendonça,Masculino,438.620.917-40,29,04,Impressora,2,800.0,1600.0,160.0,Melo,RN,Brasil,2024-10-07,Credito
+797,Catarina,Garcia,Feminino,654.327.091-80,40,05,Monitor,2,950.0,1900.0,190.0,Costela da Praia,AC,Brasil,2024-10-02,Debito
+798,Eloá,Cirino,Feminino,218.345.690-60,42,09,Cadeira Gamer,2,900.0,1800.0,180.0,Mendonça,AM,Brasil,2024-06-26,Especie
+799,Maria Cecília,Silva,Feminino,480.971.532-97,28,01,Notebook,3,3500.0,10500.0,1050.0,Pereira,SE,Brasil,2024-07-12,Debito
+800,Juan,da Paz,Masculino,946.872.053-56,37,07,Mouse,2,80.0,160.0,16.0,Lopes de Moura,PE,Brasil,2024-09-30,Credito
+801,Cauê,Barbosa,Masculino,760.328.945-92,18,03,Tablet,3,3000.0,9000.0,900.0,Barbosa das Flores,PB,Brasil,2024-01-20,Debito
+802,Joana,Alves,Feminino,784.659.023-56,46,07,Mouse,2,80.0,160.0,16.0,Barros do Campo,PR,Brasil,2024-12-09,Debito
+803,Maria,Guerra,Feminino,298.517.036-21,27,10,Suporte Monitor,3,150.0,450.0,45.0,Alves,SP,Brasil,2024-07-22,Credito
+804,Matheus,Albuquerque,Masculino,438.195.762-82,39,02,Smartphone,1,2000.0,2000.0,200.0,Aragão de Camargo,MS,Brasil,2024-08-07,Especie
+805,Aurora,Marques,Feminino,564.309.781-84,43,08,HeadSet,1,250.0,250.0,25.0,Sá dos Dourados,DF,Brasil,2024-08-30,Credito
+806,Antony,Mendes,Masculino,038.471.629-69,53,06,Teclado,1,200.0,200.0,20.0,Duarte do Oeste,SP,Brasil,2024-04-06,Debito
+807,Mathias,da Luz,Masculino,864.291.305-33,43,02,Smartphone,2,2000.0,4000.0,400.0,Lima,RN,Brasil,2024-11-09,Credito
+808,Allana,Araújo,Feminino,281.659.374-64,51,02,Smartphone,1,2000.0,2000.0,200.0,Correia de Silveira,PR,Brasil,2024-07-18,Especie
+809,Paulo,Siqueira,Masculino,935.024.761-52,18,02,Smartphone,1,2000.0,2000.0,200.0,da Rosa de Sousa,DF,Brasil,2024-07-15,Debito
+810,Joaquim,Andrade,Masculino,567.392.801-77,19,10,Suporte Monitor,1,150.0,150.0,15.0,Pereira,AC,Brasil,2024-09-06,PIX
+811,Luiz Henrique,Azevedo,Masculino,982.136.047-50,49,07,Mouse,3,80.0,240.0,24.0,Moura de Rodrigues,RN,Brasil,2024-07-19,Debito
+812,Ísis,Barros,Feminino,319.480.672-69,57,05,Monitor,1,950.0,950.0,95.0,Abreu,MA,Brasil,2024-10-18,Especie
+813,Carolina,Cirino,Feminino,420.568.139-98,47,10,Suporte Monitor,2,150.0,300.0,30.0,Gonçalves dos Dourados,MG,Brasil,2024-02-26,Debito
+814,Maya,Silveira,Feminino,362.487.905-74,23,04,Impressora,1,800.0,800.0,80.0,Aparecida,MS,Brasil,2024-02-25,Especie
+815,Emanuelly,Costela,Feminino,093.725.164-06,36,01,Notebook,3,3500.0,10500.0,1050.0,Cirino de Aragão,DF,Brasil,2024-10-28,Credito
+816,Julia,Pimenta,Feminino,387.105.246-90,58,01,Notebook,2,3500.0,7000.0,700.0,Cavalcante das Flores,PA,Brasil,2024-12-24,Especie
+817,Luiz Felipe,Correia,Masculino,289.345.106-33,35,03,Tablet,2,3000.0,6000.0,600.0,Andrade dos Dourados,SP,Brasil,2024-01-21,PIX
+818,Mariane,Fernandes,Feminino,856.721.394-00,48,04,Impressora,1,800.0,800.0,80.0,Almeida do Sul,GO,Brasil,2024-11-07,Debito
+819,Luigi,Casa Grande,Masculino,285.793.140-97,21,05,Monitor,2,950.0,1900.0,190.0,Gomes de Minas,PE,Brasil,2024-11-22,PIX
+820,Luiz Otávio,Sales,Masculino,076.142.958-11,39,03,Tablet,2,3000.0,6000.0,600.0,Casa Grande do Galho,SE,Brasil,2024-09-15,Debito
+821,João Lucas,Nunes,Masculino,687.354.921-55,27,02,Smartphone,3,2000.0,6000.0,600.0,Rezende,MS,Brasil,2024-05-11,Debito
+822,Ravi,Novais,Masculino,846.397.120-22,35,06,Teclado,3,200.0,600.0,60.0,Pires da Praia,SE,Brasil,2024-05-16,Credito
+823,Maria Júlia,Andrade,Feminino,615.938.274-82,56,04,Impressora,3,800.0,2400.0,240.0,da Rosa,MS,Brasil,2024-02-10,Credito
+824,Vinícius,Caldeira,Masculino,451.867.290-94,58,06,Teclado,2,200.0,400.0,40.0,da Cunha do Norte,MA,Brasil,2024-04-03,Credito
+825,Maria Clara,Casa Grande,Feminino,530.964.187-48,60,05,Monitor,2,950.0,1900.0,190.0,Rios,SP,Brasil,2024-12-30,Credito
+826,Maria Laura,Castro,Feminino,638.940.251-15,40,09,Cadeira Gamer,2,900.0,1800.0,180.0,Ferreira da Prata,SC,Brasil,2024-12-27,Debito
+827,Antônio,Montenegro,Masculino,254.678.931-73,50,08,HeadSet,1,250.0,250.0,25.0,Sampaio,MA,Brasil,2024-09-21,Especie
+828,Thales,Barbosa,Masculino,097.186.345-84,51,01,Notebook,1,3500.0,3500.0,350.0,Freitas de Camargo,ES,Brasil,2024-12-04,PIX
+829,Yago,Pereira,Masculino,039.612.785-12,44,10,Suporte Monitor,2,150.0,300.0,30.0,Gonçalves,GO,Brasil,2024-08-02,Credito
+830,Isabella,Pires,Feminino,178.234.906-50,19,05,Monitor,3,950.0,2850.0,285.0,Cavalcanti,SC,Brasil,2024-05-16,Especie
+831,Yuri,das Neves,Masculino,568.432.710-90,34,04,Impressora,1,800.0,800.0,80.0,Fogaça do Amparo,TO,Brasil,2024-08-28,Especie
+832,Ana Liz,Mendes,Feminino,893.402.751-79,20,01,Notebook,3,3500.0,10500.0,1050.0,Cardoso,RS,Brasil,2024-04-19,Especie
+833,Rodrigo,da Rocha,Masculino,465.708.921-85,52,05,Monitor,1,950.0,950.0,95.0,Camargo,AC,Brasil,2024-11-23,Credito
+834,Milena,Ramos,Feminino,129.035.684-05,30,04,Impressora,1,800.0,800.0,80.0,Albuquerque do Norte,AM,Brasil,2024-06-16,Debito
+835,Joaquim,Machado,Masculino,762.149.835-82,47,02,Smartphone,3,2000.0,6000.0,600.0,Pires Grande,MA,Brasil,2024-05-04,PIX
+836,Ayla,Gomes,Feminino,167.308.549-01,52,06,Teclado,3,200.0,600.0,60.0,da Luz Grande,PR,Brasil,2024-09-02,Debito
+837,Julia,Peixoto,Feminino,983.457.026-00,33,01,Notebook,1,3500.0,3500.0,350.0,Guerra das Flores,SP,Brasil,2024-10-02,Debito
+838,Luiz Henrique,das Neves,Masculino,940.168.273-96,59,01,Notebook,3,3500.0,10500.0,1050.0,Novaes do Galho,MG,Brasil,2024-04-23,Credito
+839,Sarah,Brito,Feminino,237.948.651-46,22,08,HeadSet,3,250.0,750.0,75.0,Casa Grande,AL,Brasil,2024-02-28,Debito
+840,Gael Henrique,Mendonça,Masculino,395.416.720-43,43,07,Mouse,1,80.0,80.0,8.0,Pereira da Serra,AM,Brasil,2024-01-08,Credito
+841,Alice,Sá,Feminino,325.749.806-38,26,02,Smartphone,1,2000.0,2000.0,200.0,da Rosa das Pedras,ES,Brasil,2024-02-16,PIX
+842,Ravi Lucca,Camargo,Masculino,986.430.125-05,34,01,Notebook,3,3500.0,10500.0,1050.0,Machado,SP,Brasil,2024-03-05,Debito
+843,Anna Liz,Pacheco,Feminino,695.431.027-16,35,07,Mouse,2,80.0,160.0,16.0,Pacheco,SP,Brasil,2024-06-11,Credito
+844,Mateus,Aragão,Masculino,573.804.926-83,34,07,Mouse,1,80.0,80.0,8.0,Caldeira,AM,Brasil,2024-04-29,Credito
+845,Thomas,Freitas,Masculino,475.809.132-32,28,10,Suporte Monitor,1,150.0,150.0,15.0,Nascimento de Sampaio,PR,Brasil,2024-01-16,Especie
+846,Joana,Gonçalves,Feminino,430.859.276-38,34,01,Notebook,3,3500.0,10500.0,1050.0,Alves,PA,Brasil,2024-09-10,Debito
+847,Lucca,Jesus,Masculino,952.638.170-02,42,08,HeadSet,3,250.0,750.0,75.0,das Neves,GO,Brasil,2024-12-04,Especie
+848,Caleb,Monteiro,Masculino,548.306.197-75,38,08,HeadSet,2,250.0,500.0,50.0,Azevedo de Fernandes,AL,Brasil,2024-05-08,Especie
+849,Beatriz,Andrade,Feminino,038.192.765-21,47,04,Impressora,2,800.0,1600.0,160.0,das Neves,PA,Brasil,2024-10-03,Debito
+850,Clarice,Rocha,Feminino,540.378.621-07,59,07,Mouse,3,80.0,240.0,24.0,Freitas,CE,Brasil,2024-11-10,PIX
+851,Ágatha,Fonseca,Feminino,678.592.430-83,51,06,Teclado,2,200.0,400.0,40.0,Lopes de Carvalho,ES,Brasil,2024-08-04,Debito
+852,Antony,Azevedo,Masculino,189.027.635-95,56,04,Impressora,3,800.0,2400.0,240.0,Oliveira,RN,Brasil,2024-04-25,Especie
+853,Valentina,Nogueira,Feminino,163.285.409-06,19,05,Monitor,3,950.0,2850.0,285.0,Aragão das Flores,MS,Brasil,2024-09-13,PIX
+854,Thomas,da Cruz,Masculino,372.504.986-65,29,08,HeadSet,1,250.0,250.0,25.0,Lopes de Gonçalves,MG,Brasil,2024-01-17,PIX
+855,Marcela,Marques,Feminino,056.382.417-44,57,06,Teclado,2,200.0,400.0,40.0,Duarte dos Dourados,GO,Brasil,2024-11-01,PIX
+856,Vitor Hugo,Barros,Masculino,168.790.425-11,53,01,Notebook,1,3500.0,3500.0,350.0,Nunes,SE,Brasil,2024-12-20,Especie
+857,Noah,Silva,Masculino,973.215.684-82,55,08,HeadSet,2,250.0,500.0,50.0,Correia Verde,SP,Brasil,2024-01-06,Credito
+858,Lavínia,Vieira,Feminino,419.275.038-41,35,10,Suporte Monitor,3,150.0,450.0,45.0,Camargo de Brito,GO,Brasil,2024-11-01,PIX
+859,Miguel,Vieira,Masculino,026.159.783-30,41,04,Impressora,2,800.0,1600.0,160.0,Pires de Oliveira,RR,Brasil,2024-06-28,Especie
+860,Davi Lucas,Camargo,Masculino,407.893.651-20,50,07,Mouse,2,80.0,160.0,16.0,Macedo Paulista,AC,Brasil,2024-12-21,Credito
+861,Antony,Teixeira,Masculino,375.028.946-83,51,10,Suporte Monitor,2,150.0,300.0,30.0,Leão Grande,SP,Brasil,2024-07-16,PIX
+862,Mariana,Casa Grande,Feminino,436.598.710-01,41,06,Teclado,1,200.0,200.0,20.0,Andrade dos Dourados,PR,Brasil,2024-03-19,Especie
+863,Nicolas,Brito,Masculino,847.531.962-91,41,01,Notebook,1,3500.0,3500.0,350.0,Moreira,RS,Brasil,2024-02-07,Especie
+864,Melina,Nascimento,Feminino,214.780.563-71,56,06,Teclado,1,200.0,200.0,20.0,Fernandes,BA,Brasil,2024-09-08,Especie
+865,Ana,da Cunha,Feminino,276.081.945-02,56,09,Cadeira Gamer,1,900.0,900.0,90.0,Vargas,RS,Brasil,2024-06-15,Especie
+866,Zoe,Barbosa,Feminino,879.504.162-11,23,01,Notebook,3,3500.0,10500.0,1050.0,Sampaio Grande,AM,Brasil,2024-11-09,Especie
+867,Luiz Gustavo,Martins,Masculino,921.586.403-24,23,04,Impressora,2,800.0,1600.0,160.0,Aparecida de Campos,PI,Brasil,2024-11-07,Debito
+868,Melissa,Silva,Feminino,415.769.802-94,35,07,Mouse,1,80.0,80.0,8.0,Jesus,RS,Brasil,2024-12-03,Credito
+869,Nathan,Aragão,Masculino,094.153.687-48,20,01,Notebook,1,3500.0,3500.0,350.0,da Rosa,RN,Brasil,2024-07-24,Especie
+870,Brenda,Carvalho,Feminino,921.675.084-76,46,04,Impressora,3,800.0,2400.0,240.0,Vieira,RO,Brasil,2024-05-28,Especie
+871,Antonella,Nunes,Feminino,863.140.725-90,24,08,HeadSet,3,250.0,750.0,75.0,Cunha de Leão,PB,Brasil,2024-12-11,Especie
+872,Emanuelly,Sales,Feminino,426.098.135-89,37,07,Mouse,2,80.0,160.0,16.0,Moraes,PI,Brasil,2024-10-25,Debito
+873,Isis,Moura,Feminino,920.817.643-69,34,01,Notebook,1,3500.0,3500.0,350.0,da Rosa,DF,Brasil,2024-10-16,Credito
+874,Pedro Henrique,Aparecida,Masculino,192.460.758-11,36,01,Notebook,1,3500.0,3500.0,350.0,Vasconcelos,AM,Brasil,2024-09-13,Debito
+875,Augusto,Campos,Masculino,438.106.925-06,45,03,Tablet,2,3000.0,6000.0,600.0,da Costa,DF,Brasil,2024-09-20,Debito
+876,Emilly,Aparecida,Feminino,605.183.924-06,57,03,Tablet,2,3000.0,6000.0,600.0,Abreu do Sul,RO,Brasil,2024-10-29,Especie
+877,Ana Carolina,Sales,Feminino,409.715.386-20,52,10,Suporte Monitor,1,150.0,150.0,15.0,da Cruz,PI,Brasil,2024-11-12,Debito
+878,Nicolas,Marques,Masculino,269.840.135-42,32,08,HeadSet,3,250.0,750.0,75.0,Fernandes Paulista,RO,Brasil,2024-04-05,PIX
+879,João Felipe,Sales,Masculino,347.906.521-06,56,05,Monitor,1,950.0,950.0,95.0,Pereira do Sul,PB,Brasil,2024-02-29,Especie
+880,Marina,Brito,Feminino,940.863.257-56,60,01,Notebook,3,3500.0,10500.0,1050.0,da Mata,SP,Brasil,2024-08-02,Debito
+881,Melina,da Luz,Feminino,869.075.134-39,40,09,Cadeira Gamer,1,900.0,900.0,90.0,Pinto do Norte,PE,Brasil,2024-11-16,Credito
+882,Isabelly,Campos,Feminino,129.064.378-40,57,10,Suporte Monitor,2,150.0,300.0,30.0,Rocha do Sul,PA,Brasil,2024-03-05,Debito
+883,Luiz Felipe,Barros,Masculino,781.623.405-80,34,08,HeadSet,1,250.0,250.0,25.0,Correia de Costa,MS,Brasil,2024-09-10,PIX
+884,Luan,Fogaça,Masculino,937.856.401-10,37,10,Suporte Monitor,2,150.0,300.0,30.0,da Cruz do Campo,DF,Brasil,2024-05-06,PIX
+885,Isabelly,da Conceição,Feminino,231.468.759-00,47,03,Tablet,2,3000.0,6000.0,600.0,Fernandes,GO,Brasil,2024-10-07,Credito
+886,Allana,Montenegro,Feminino,801.453.276-71,40,07,Mouse,2,80.0,160.0,16.0,Castro de Goiás,BA,Brasil,2024-05-01,Debito
+887,Enrico,Lima,Masculino,293.057.641-34,41,09,Cadeira Gamer,3,900.0,2700.0,270.0,das Neves dos Dourados,MG,Brasil,2024-12-02,Especie
+888,Sophie,Cunha,Feminino,604.827.593-56,20,06,Teclado,2,200.0,400.0,40.0,Marques,DF,Brasil,2024-08-13,PIX
+889,Melissa,Rezende,Feminino,961.430.857-57,54,01,Notebook,3,3500.0,10500.0,1050.0,da Costa,PE,Brasil,2024-03-23,Especie
+890,Luiz Miguel,Ribeiro,Masculino,826.571.430-08,44,06,Teclado,1,200.0,200.0,20.0,Almeida dos Dourados,RN,Brasil,2024-08-28,Especie
+891,Gabrielly,Teixeira,Feminino,164.238.750-90,51,03,Tablet,3,3000.0,9000.0,900.0,Vargas,SE,Brasil,2024-11-17,Debito
+892,Vitor,Lopes,Masculino,734.589.061-93,57,06,Teclado,2,200.0,400.0,40.0,Jesus,RS,Brasil,2024-04-28,Credito
+893,Heloisa,Monteiro,Feminino,046.395.827-65,18,04,Impressora,1,800.0,800.0,80.0,Cardoso do Campo,RN,Brasil,2024-07-08,PIX
+894,Miguel,Sá,Masculino,305.248.716-71,48,08,HeadSet,1,250.0,250.0,25.0,Castro,MT,Brasil,2024-05-12,Especie
+895,Lara,Rios,Feminino,421.073.865-44,23,09,Cadeira Gamer,2,900.0,1800.0,180.0,Rodrigues do Amparo,RS,Brasil,2024-08-02,Credito
+896,Luan,da Luz,Masculino,983.450.267-29,41,10,Suporte Monitor,1,150.0,150.0,15.0,Leão,MG,Brasil,2024-05-16,PIX
+897,Isabelly,da Mota,Feminino,578.601.932-21,60,02,Smartphone,1,2000.0,2000.0,200.0,Pinto de Abreu,PI,Brasil,2024-02-15,Especie
+898,Jade,Novaes,Feminino,280.539.167-59,49,01,Notebook,2,3500.0,7000.0,700.0,Aragão,RO,Brasil,2024-02-23,Credito
+899,Marina,da Rocha,Feminino,391.085.426-51,29,09,Cadeira Gamer,2,900.0,1800.0,180.0,da Costa do Galho,AL,Brasil,2024-04-18,Credito
+900,Calebe,Campos,Masculino,835.120.746-26,28,07,Mouse,1,80.0,80.0,8.0,da Rosa,RJ,Brasil,2024-02-28,Especie
+901,Yuri,Pastor,Masculino,501.673.829-77,34,02,Smartphone,1,2000.0,2000.0,200.0,Monteiro de Gomes,AL,Brasil,2024-08-01,Especie
+902,Rhavi,Porto,Masculino,948.765.012-11,48,09,Cadeira Gamer,3,900.0,2700.0,270.0,Rezende,MG,Brasil,2024-06-27,Especie
+903,Mateus,Mendes,Masculino,423.786.910-50,39,02,Smartphone,2,2000.0,4000.0,400.0,da Conceição de Minas,RN,Brasil,2024-02-08,Especie
+904,Asafe,Azevedo,Masculino,610.457.823-35,35,01,Notebook,3,3500.0,10500.0,1050.0,Montenegro,MA,Brasil,2024-10-02,PIX
+905,Lavínia,Oliveira,Feminino,450.197.623-34,57,01,Notebook,1,3500.0,3500.0,350.0,Pinto,PE,Brasil,2024-04-20,Credito
+906,Ana Luiza,Dias,Feminino,654.379.018-01,43,02,Smartphone,1,2000.0,2000.0,200.0,da Mata,PE,Brasil,2024-06-11,Credito
+907,Ágatha,Cirino,Feminino,253.864.971-46,44,10,Suporte Monitor,1,150.0,150.0,15.0,Caldeira Verde,CE,Brasil,2024-11-29,Especie
+908,Maria Luiza,Costela,Feminino,910.573.846-66,31,04,Impressora,1,800.0,800.0,80.0,da Costa Alegre,AL,Brasil,2024-12-29,Credito
+909,Luiz Fernando,Duarte,Masculino,802.147.956-67,41,05,Monitor,2,950.0,1900.0,190.0,Rocha,SC,Brasil,2024-07-12,Debito
+910,Hadassa,Aparecida,Feminino,925.784.163-46,42,01,Notebook,2,3500.0,7000.0,700.0,Rios da Praia,DF,Brasil,2024-02-29,Debito
+911,Rodrigo,Guerra,Masculino,358.724.019-14,32,09,Cadeira Gamer,1,900.0,900.0,90.0,Barros,SE,Brasil,2024-08-30,Credito
+912,Ana Liz,Garcia,Feminino,106.825.794-67,47,03,Tablet,1,3000.0,3000.0,300.0,Vasconcelos,MA,Brasil,2024-12-16,Debito
+913,Antônio,da Mata,Masculino,835.029.617-86,59,02,Smartphone,3,2000.0,6000.0,600.0,Leão do Amparo,GO,Brasil,2024-05-15,Credito
+914,Lunna,Abreu,Feminino,310.869.725-03,53,10,Suporte Monitor,3,150.0,450.0,45.0,Leão,TO,Brasil,2024-05-26,PIX
+915,Benjamin,Cirino,Masculino,584.903.617-20,26,07,Mouse,1,80.0,80.0,8.0,Monteiro,MT,Brasil,2024-09-08,PIX
+916,Ana Vitória,Almeida,Feminino,095.842.736-47,36,10,Suporte Monitor,1,150.0,150.0,15.0,da Paz,PE,Brasil,2024-02-19,Debito
+917,Isaque,Lima,Masculino,431.905.627-25,55,06,Teclado,2,200.0,400.0,40.0,Costa,SP,Brasil,2024-01-10,Especie
+918,Alana,Dias,Feminino,034.789.562-00,60,07,Mouse,3,80.0,240.0,24.0,Lopes de Silveira,CE,Brasil,2024-03-14,PIX
+919,Eduardo,Rocha,Masculino,067.153.942-61,41,10,Suporte Monitor,2,150.0,300.0,30.0,Novais da Mata,PB,Brasil,2024-08-11,Especie
+920,Nicole,Moura,Feminino,613.204.857-07,36,03,Tablet,3,3000.0,9000.0,900.0,Pereira,PR,Brasil,2024-08-15,Especie
+921,Gael Henrique,da Rosa,Masculino,945.716.280-30,33,09,Cadeira Gamer,2,900.0,1800.0,180.0,Pimenta de Goiás,PR,Brasil,2024-06-04,Especie
+922,Alícia,Lopes,Feminino,390.518.462-15,40,02,Smartphone,2,2000.0,4000.0,400.0,Pacheco,BA,Brasil,2024-09-18,Especie
+923,André,da Rosa,Masculino,108.257.643-35,36,05,Monitor,1,950.0,950.0,95.0,da Costa,PB,Brasil,2024-09-23,Debito
+924,Alice,Almeida,Feminino,931.542.680-06,47,10,Suporte Monitor,1,150.0,150.0,15.0,Monteiro,AC,Brasil,2024-02-23,Debito
+925,Rafael,Sales,Masculino,174.902.385-79,59,04,Impressora,1,800.0,800.0,80.0,Viana Verde,MA,Brasil,2024-08-25,PIX
+926,Esther,Viana,Feminino,058.642.397-47,43,02,Smartphone,1,2000.0,2000.0,200.0,Moraes Paulista,MT,Brasil,2024-12-02,Debito
+927,Lunna,Oliveira,Feminino,785.263.014-62,38,10,Suporte Monitor,3,150.0,450.0,45.0,Moreira,PA,Brasil,2024-09-20,Credito
+928,Gael Henrique,Pires,Masculino,481.706.953-84,45,06,Teclado,1,200.0,200.0,20.0,Martins,TO,Brasil,2024-04-18,Credito
+929,Heloísa,Barros,Feminino,584.296.301-98,21,03,Tablet,3,3000.0,9000.0,900.0,Silva de Ribeiro,PE,Brasil,2024-09-23,Credito
+930,Eduardo,Sales,Masculino,185.742.396-82,27,09,Cadeira Gamer,1,900.0,900.0,90.0,Oliveira,AL,Brasil,2024-10-28,PIX
+931,Isabela,Brito,Feminino,290.186.537-21,31,02,Smartphone,1,2000.0,2000.0,200.0,Câmara,PA,Brasil,2024-02-07,Credito
+932,João Vitor,Nunes,Masculino,284.935.761-82,51,04,Impressora,3,800.0,2400.0,240.0,Teixeira,CE,Brasil,2024-10-19,Credito
+933,Diogo,Câmara,Masculino,025.369.178-86,42,01,Notebook,1,3500.0,3500.0,350.0,Fernandes,BA,Brasil,2024-12-12,Credito
+934,Raul,Siqueira,Masculino,309.526.418-60,43,04,Impressora,3,800.0,2400.0,240.0,Castro de da Cunha,MG,Brasil,2024-03-23,Debito
+935,Leandro,Novais,Masculino,281.456.739-09,19,08,HeadSet,1,250.0,250.0,25.0,Nascimento,GO,Brasil,2024-06-06,Debito
+936,Ana Beatriz,Costa,Feminino,921.856.437-46,58,01,Notebook,2,3500.0,7000.0,700.0,da Rocha,PR,Brasil,2024-06-21,Debito
+937,Maria Sophia,Castro,Feminino,764.231.058-71,55,09,Cadeira Gamer,3,900.0,2700.0,270.0,Rodrigues,TO,Brasil,2024-11-22,Especie
+938,Diogo,Vargas,Masculino,285.047.193-32,58,05,Monitor,1,950.0,950.0,95.0,Rodrigues,PB,Brasil,2024-11-29,Debito
+939,Guilherme,Silva,Masculino,361.402.795-34,44,07,Mouse,1,80.0,80.0,8.0,Freitas da Praia,MG,Brasil,2024-04-25,PIX
+940,Kevin,da Cruz,Masculino,130.764.825-80,22,04,Impressora,2,800.0,1600.0,160.0,Cavalcanti,CE,Brasil,2024-12-03,Debito
+941,Giovanna,Gomes,Feminino,520.143.986-15,23,02,Smartphone,3,2000.0,6000.0,600.0,Rios de Goiás,RR,Brasil,2024-07-12,Credito
+942,Heloísa,da Mata,Feminino,175.362.480-08,36,08,HeadSet,1,250.0,250.0,25.0,Sampaio,BA,Brasil,2024-08-06,PIX
+943,Alexandre,Oliveira,Masculino,729.450.163-70,23,05,Monitor,3,950.0,2850.0,285.0,Montenegro de Abreu,SC,Brasil,2024-05-05,PIX
+944,Vitor,Ribeiro,Masculino,319.027.654-43,42,02,Smartphone,3,2000.0,6000.0,600.0,Borges do Oeste,SE,Brasil,2024-07-02,PIX
+945,Théo,Rezende,Masculino,973.810.546-39,43,04,Impressora,2,800.0,1600.0,160.0,Duarte,PA,Brasil,2024-03-06,Credito
+946,Igor,Aragão,Masculino,571.263.894-00,52,09,Cadeira Gamer,1,900.0,900.0,90.0,Nunes de Moura,RO,Brasil,2024-05-07,Credito
+947,Agatha,Novaes,Feminino,760.294.513-16,54,01,Notebook,1,3500.0,3500.0,350.0,Jesus Alegre,MA,Brasil,2024-07-21,PIX
+948,Ana Vitória,Novaes,Feminino,479.183.265-55,51,07,Mouse,3,80.0,240.0,24.0,Rocha do Norte,RN,Brasil,2024-12-23,Debito
+949,Joaquim,Ferreira,Masculino,690.527.348-10,55,05,Monitor,2,950.0,1900.0,190.0,da Rocha Alegre,MA,Brasil,2024-02-26,Debito
+950,Isabela,Farias,Feminino,508.394.176-75,51,08,HeadSet,1,250.0,250.0,25.0,Rocha Paulista,SP,Brasil,2024-03-13,Especie
+951,Enrico,Machado,Masculino,364.051.298-70,47,05,Monitor,2,950.0,1900.0,190.0,Vieira,RO,Brasil,2024-03-20,PIX
+952,Anthony Gabriel,Oliveira,Masculino,761.530.824-08,44,10,Suporte Monitor,3,150.0,450.0,45.0,Campos,AL,Brasil,2024-06-30,Especie
+953,João Felipe,Moura,Masculino,705.624.193-06,30,05,Monitor,1,950.0,950.0,95.0,Souza,PE,Brasil,2024-04-20,PIX
+954,Leonardo,Santos,Masculino,059.147.628-20,39,05,Monitor,2,950.0,1900.0,190.0,Moreira,PB,Brasil,2024-05-14,PIX
+955,Bella,Fonseca,Feminino,493.615.820-89,29,01,Notebook,1,3500.0,3500.0,350.0,Santos do Amparo,GO,Brasil,2024-05-07,Especie
+956,Jade,Marques,Feminino,153.628.407-62,57,08,HeadSet,2,250.0,500.0,50.0,Monteiro,MS,Brasil,2024-12-25,Especie
+957,Antony,Caldeira,Masculino,502.384.769-10,59,04,Impressora,1,800.0,800.0,80.0,Vargas de da Conceição,DF,Brasil,2024-04-16,Especie
+958,Ana Lívia,Correia,Feminino,725.941.306-99,40,02,Smartphone,1,2000.0,2000.0,200.0,Cavalcante,AP,Brasil,2024-09-27,PIX
+959,Maysa,Leão,Feminino,326.951.870-68,32,03,Tablet,3,3000.0,9000.0,900.0,Almeida,AC,Brasil,2024-01-27,Credito
+960,Caio,Nunes,Masculino,278.035.491-79,30,06,Teclado,3,200.0,600.0,60.0,Novaes de Farias,BA,Brasil,2024-01-07,Especie
+961,Bruno,Mendes,Masculino,140.839.527-41,23,01,Notebook,1,3500.0,3500.0,350.0,da Paz do Campo,MS,Brasil,2024-10-25,Debito
+962,Cecilia,das Neves,Feminino,923.064.157-06,54,08,HeadSet,2,250.0,500.0,50.0,Alves das Pedras,BA,Brasil,2024-11-30,Especie
+963,Diego,Rocha,Masculino,487.013.692-96,34,02,Smartphone,3,2000.0,6000.0,600.0,Dias,AL,Brasil,2024-10-26,Debito
+964,Luiza,Brito,Feminino,934.275.608-56,47,08,HeadSet,1,250.0,250.0,25.0,Peixoto,BA,Brasil,2024-01-06,PIX
+965,Vinicius,Albuquerque,Masculino,407.912.536-43,41,05,Monitor,1,950.0,950.0,95.0,Cunha do Amparo,ES,Brasil,2024-05-17,Credito
+966,Lunna,da Luz,Feminino,930.748.562-38,20,01,Notebook,1,3500.0,3500.0,350.0,Sá de Sales,PE,Brasil,2024-10-13,Credito
+967,Melissa,Farias,Feminino,950.163.472-80,34,06,Teclado,3,200.0,600.0,60.0,Gonçalves Paulista,MT,Brasil,2024-08-09,Debito
+968,Pedro Miguel,Nunes,Masculino,410.873.956-66,23,03,Tablet,1,3000.0,3000.0,300.0,Jesus de Montenegro,PE,Brasil,2024-03-25,PIX
+969,Henry,Andrade,Masculino,985.023.467-92,25,08,HeadSet,1,250.0,250.0,25.0,Azevedo das Pedras,PI,Brasil,2024-05-06,PIX
+970,Theo,Abreu,Masculino,045.129.873-04,31,08,HeadSet,2,250.0,500.0,50.0,Guerra,RR,Brasil,2024-04-06,Debito
+971,Vitória,Teixeira,Feminino,307.624.859-65,60,06,Teclado,2,200.0,400.0,40.0,Alves de Mendonça,MA,Brasil,2024-09-20,Debito
+972,Eduardo,Freitas,Masculino,102.865.347-62,42,06,Teclado,3,200.0,600.0,60.0,Sá,TO,Brasil,2024-12-12,PIX
+973,Melina,Albuquerque,Feminino,120.598.746-02,19,04,Impressora,2,800.0,1600.0,160.0,Vasconcelos,TO,Brasil,2024-01-23,Debito
+974,Benjamin,Pires,Masculino,758.236.109-12,50,06,Teclado,1,200.0,200.0,20.0,Almeida,RO,Brasil,2024-09-20,Especie
+975,Matheus,Barbosa,Masculino,235.869.140-24,19,03,Tablet,2,3000.0,6000.0,600.0,Monteiro,BA,Brasil,2024-10-12,Especie
+976,Maria Luísa,Nunes,Feminino,564.317.029-99,42,09,Cadeira Gamer,1,900.0,900.0,90.0,Moraes do Galho,RR,Brasil,2024-08-23,Credito
+977,Liz,da Costa,Feminino,028.761.435-26,22,06,Teclado,2,200.0,400.0,40.0,Barbosa,MG,Brasil,2024-07-27,Especie
+978,Ana Vitória,Jesus,Feminino,316.798.425-28,49,01,Notebook,3,3500.0,10500.0,1050.0,Martins de Jesus,MT,Brasil,2024-04-30,PIX
+979,Olivia,Mendes,Feminino,795.341.860-66,19,01,Notebook,2,3500.0,7000.0,700.0,Caldeira das Pedras,RR,Brasil,2024-09-17,PIX
+980,Maysa,Cavalcanti,Feminino,328.457.061-62,59,01,Notebook,3,3500.0,10500.0,1050.0,Melo Paulista,RS,Brasil,2024-07-28,Especie
+981,Lucas Gabriel,Pacheco,Masculino,365.879.201-95,44,08,HeadSet,2,250.0,500.0,50.0,Nunes,RJ,Brasil,2024-09-11,PIX
+982,Cecilia,Costa,Feminino,785.603.149-20,49,08,HeadSet,1,250.0,250.0,25.0,Cirino de Goiás,CE,Brasil,2024-07-18,Debito
+983,Ísis,Freitas,Feminino,309.726.158-30,36,05,Monitor,3,950.0,2850.0,285.0,Abreu,PA,Brasil,2024-03-28,PIX
+984,Daniela,Vargas,Feminino,041.968.325-98,33,05,Monitor,2,950.0,1900.0,190.0,Freitas das Pedras,AP,Brasil,2024-09-13,PIX
+985,Vitor Gabriel,Ferreira,Masculino,289.635.401-89,21,10,Suporte Monitor,1,150.0,150.0,15.0,Dias do Campo,TO,Brasil,2024-01-29,Debito
+986,João Pedro,Pacheco,Masculino,937.410.862-31,18,04,Impressora,2,800.0,1600.0,160.0,Camargo de Rios,PA,Brasil,2024-12-22,Especie
+987,Anthony,Nunes,Masculino,089.234.651-51,24,03,Tablet,2,3000.0,6000.0,600.0,Garcia,MG,Brasil,2024-10-22,Credito
+988,Yago,Siqueira,Masculino,457.903.261-61,36,06,Teclado,3,200.0,600.0,60.0,Borges de Minas,PA,Brasil,2024-11-29,PIX
+989,Benicio,Sales,Masculino,468.950.137-84,35,02,Smartphone,2,2000.0,4000.0,400.0,Leão,DF,Brasil,2024-03-04,Credito
+990,Augusto,da Rosa,Masculino,653.820.417-17,26,05,Monitor,2,950.0,1900.0,190.0,Câmara de Goiás,MA,Brasil,2024-12-26,Credito
+991,Cecília,Pires,Feminino,248.695.310-89,27,02,Smartphone,1,2000.0,2000.0,200.0,Fernandes de Duarte,MA,Brasil,2024-10-15,Debito
+992,Gabrielly,Ramos,Feminino,291.307.685-86,57,06,Teclado,3,200.0,600.0,60.0,Vargas,PR,Brasil,2024-12-22,Debito
+993,Isadora,da Mata,Feminino,265.379.018-12,39,07,Mouse,1,80.0,80.0,8.0,Fernandes,SE,Brasil,2024-06-02,Debito
+994,Zoe,Cassiano,Feminino,365.280.914-98,31,03,Tablet,1,3000.0,3000.0,300.0,da Rosa,SC,Brasil,2024-03-10,Especie
+995,Ana Laura,Araújo,Feminino,659.701.384-01,43,10,Suporte Monitor,3,150.0,450.0,45.0,Lima dos Dourados,TO,Brasil,2024-09-29,Especie
+996,Vitor Gabriel,Casa Grande,Masculino,782.516.340-08,57,01,Notebook,3,3500.0,10500.0,1050.0,Moreira,MA,Brasil,2024-03-19,Especie
+997,Maria Alice,Alves,Feminino,213.769.805-68,46,04,Impressora,3,800.0,2400.0,240.0,Azevedo,RR,Brasil,2024-12-21,Credito
+998,Isabella,da Rosa,Feminino,724.650.389-74,32,10,Suporte Monitor,1,150.0,150.0,15.0,da Mota do Galho,RN,Brasil,2024-01-14,Credito
