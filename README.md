@@ -9,28 +9,18 @@ Python(Faker, Pandas) - Para a criação e manipulação dos dados em nosso data
 Power BI - Para análise e visualização dos resultados.
 
 ## Passos do Desenvolvimento
-* Fiz a criação de meu próprio database para este projeto, utilizando a biblioteca Faker do Python para a criação de informações aleatórias de clientes, datas, cidades etc... . Para a criação antes tive que definir pré configurações antes, como os nomes das minhas colunas, produtos, formas de pagamento e sexo dos clientes
-'''colunas = [
-    "Nome", "Sobrenome","Sexo", "CPF","Idade", "ID_Produto", "Produto", "Quantidade",
-    "Valor_Unitario", "Total_Compra", "Imposto_Produto", "Cidade",
-    "Estado", "Pais", "Data", "Forma_Pagamento"]
+* Fiz a criação de meu próprio database para este projeto, utilizando a biblioteca Faker do Python para a criação de informações aleatórias de clientes, datas, cidades.
+* Defini um conjuneto de prosutos com preços fixos.
+* Simulei transações aleatórias, incluindo quantidade de itens e forma de pagamentos.
 
-produtos = [{"id": "01""nome": "Notebook", "valor": 3500.00},
-            {"id": "02", "nome": "Smartphone", "valor": 2000.00},
-            {"id": "03", "nome": "Tablet", "valor": 3000.00},
-            {"id": "04", "nome": "Impressora", "valor": 800.00},
-            {"id": "05", "nome": "Monitor", "valor": 950.00},
-            {"id": "06", "nome": "Teclado", "valor": 200.00},
-            {"id": "07", "nome": "Mouse", "valor": 80.00},
-            {"id": "08", "nome": "HeadSet", "valor": 250.00},
-            {"id": "09", "nome": "Cadeira Gamer", "valor": 900.00},
-            {"id": "10" "nome": "Suporte Monitor", "valor": 150.00}]
+* [imagem do trecho~]
 
-formas_pagamento = ["Debito", "Credito", "PIX", "Especie"]
-
-sexo_opcoes = ["Masculino", "Feminino"]
-
-dados = [] '''
-
-
-
+* Organizei os dados em um dataFrame do Pandas.
+* Salvei a base no formato CSV para ser utilizada no Power BI.
+[exportação do dataFrame]
+* Carreguei os dados no Power BI e os normalizei utilizando o Power Query, automatizando assim todo o processo de extração desta base no futuro.
+  [Automatização]
+* Realizei a criação de Medidas, para simplificar a identificação dados que se faziam necessários para o Dash alem de criar uma nova coluna calculada que trás o nome extenso do estado utilizando a linguagem DAX.
+  [imagens focando as medidas e o dax]
+* Por fim, Desenvolvi gráficos para entender o volume de vendas, lucros mensais e anula, depesas mensai e anual, lucros por região do brasil, e dados de comportamento de clientes.
+  
