@@ -10,7 +10,8 @@ Power BI - Para análise e visualização dos resultados.
 
 ## Passos do Desenvolvimento
 * Fiz a criação de meu próprio database para este projeto, utilizando a biblioteca Faker do Python para a criação de informações aleatórias de clientes, datas, cidades.
-* Defini um conjuneto de prosutos com preços fixos.
+  <img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/definicao.png", weight= 600px />
+* Defini um conjunto de produtos com preços fixos.
 * Simulei transações aleatórias, incluindo quantidade de itens e forma de pagamentos.
 
 * [imagem do trecho~]
