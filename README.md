@@ -30,7 +30,7 @@ Power BI - Para análise e visualização dos resultados.
 * Por fim, Desenvolvi gráficos para entender o volume de vendas, lucros mensais e anula, depesas mensai e anual, lucros por região do brasil, e dados de comportamento de clientes.
   <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/Dashboard.png" width = "600px"></p>
 
-  ### Tecnologias Usadas
+  ## Tecnologias Usadas
   <p align="left">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
