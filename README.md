@@ -10,31 +10,29 @@ Power BI - Para análise e visualização dos resultados.
 
 ## Passos do Desenvolvimento
 * Fiz a criação de meu próprio database para este projeto, utilizando a biblioteca Faker do Python para a criação de informações aleatórias de clientes, datas, cidades.
-  
-<img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/definicao.png" width = "600px"/>
+<p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/definicao.png" width = "600px"/></p>
 
 * Defini um conjunto de produtos com preços fixos.
-  
-<img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/Colunas_Produtos.png" width = "600px"/>
+<p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/Colunas_Produtos.png" width = "600px"/></p>
 
 * Simulei transações aleatórias, incluindo quantidade de itens e forma de pagamentos.
+  <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/criacao-dados.png" width = "600px"></p>
   
-<img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/criacao-dados.png" width = "600px"/>
-
 * Organizei os dados em um dataFrame do Pandas e exportei em formato CSV.
+  <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/df%20e%20exportacao.png" width = "600px"/></p>
   
-<img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/df%20e%20exportacao.png" width = "600px"/>
-
 * Carreguei os dados no Power BI e os normalizei utilizando o Power Query, automatizando assim todo o processo de extração desta base no futuro.
+  <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/PowerQuery.png" width = "600px"></p>
   
-  <img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/PowerQuery.png" width = "600px">
-
 * Realizei a criação de Medidas, para simplificar a identificação dados que se faziam necessários para o Dash alem de criar uma nova coluna calculada que trás o nome extenso do estado utilizando a linguagem DAX.
+  <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/medidado-DAX.png" width = "600px"></p>
   
-  <img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/medidado-DAX.png" width = "600px">
-
 * Por fim, Desenvolvi gráficos para entender o volume de vendas, lucros mensais e anula, depesas mensai e anual, lucros por região do brasil, e dados de comportamento de clientes.
-  
-  <img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/Dashboard.png" width = "600px">
+  <p align="center"><img src= "https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Template_Imagens/Dashboard.png" width = "600px"></p>
 
+  ### Tecnologias Usadas
+  <p align="left">  
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+</p> 
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/></p>
   
