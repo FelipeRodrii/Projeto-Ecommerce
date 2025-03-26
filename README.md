@@ -1,6 +1,6 @@
 # Análise de Resultados Anuais de um E-commerce
 ## Descrição do Projeto
-Este projeto teve como objetivo praticar e revisar habilidades com Python e Power BI, criando uma análise fictícia dos resultados anuais de um e-commerce.
+Este projeto teve como objetivo praticar e revisar habilidades com Python e Power BI, criando uma análise dos resultados anuais de um e-commerce fictício.
 
 Para isso utilizei Python para gerar uma base de dados personalizada com transações de compras, incluindo informações de clientes, produtos, valores e formas de pagamento. Em seguida, os dado foram analisados e visualizados no Power BI, permitindo insights sobre a vendas ao longo do ano.
 
